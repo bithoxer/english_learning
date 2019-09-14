@@ -732,8 +732,11 @@ bachelor n.学士学位，单身汉
 __alinate v.疏远__
 
 - __alternate__ adj.交替的，轮流的 v.（使）交替，（使）轮流
+
 - salient adj.显著的
+
 - senate n.参议院
+
 - eliminate v.消灭，铲除
 
 barn n.谷仓
@@ -749,9 +752,13 @@ betrayal n.背叛
 burial n.埋葬，葬礼
 
 + aerial adj.飞机的,航空的
+
 + trial n.审判，实验 磨练，苦难 adj.试验的，考验的
+
 + bureau n.局，处，所
+
 + Burma 缅甸
+
 + bridal n.新娘的，婚礼的
 
 imperaive adj.必要的，祈使的 n.命令，义务
@@ -763,15 +770,350 @@ imperaive adj.必要的，祈使的 n.命令，义务
 plug n.插头 v.插入
 
 + slug n.鼻涕虫，子弹，懒汉 v.偷懒
+
 + lug n,把手， v.拖拉
+
 + vitality n.活力，生气，生命力
+
 + valiant n.勇士 adj.英勇的
 
 practitioner n.（医生，律师）从业者，实践者
 
 + petitioner n.请愿人，起诉人，原告
+
 + partition n.划分 
 
+imitation n.模仿
+
+__vicinity__ n.附近地区
+
+divinity n.神学
+
+affinity n.烟亲关系，密切关系，亲近
+
+Salinity n.盐分
+
+dignity n.威严，端庄，尊严
+
+gymnasium n.体育馆
+
+expound v.详细说明，阐述
+
+errand n.差使，使命
+
+Infrared adj.红外线的 n.红外线
+
+inflamed n.发炎的
+
+inflated adj. 通货膨胀的，肿胀的
+
+inflame n.使燃烧，激怒
+
+inflate v.充气
+
+recovery n.痊愈，恢复
+
+mastery n.权力，优势，掌握，精通
+
+muster v.集合
+
+mister n.先生
+
+carve v. n.雕刻
+
+qualification n.资历，条件，资格
+
+nullification n.废弃，取消
+
+amplification n.放大
+
+justification n.正当的理由，借口
+
+purification n.赎罪，提纯
+
+ramification n.分支，分支的结果
+
+primate n.首领
+
+privacy n.隐私，秘密
+
+mighty adj.强大的 adv.很
+
+almighty adj. 全能的 n.全能的神
+
+sunburn n.晒黑，晒斑
+
+expulsion n. 驱逐
+
+warrant n.逮捕证，凭证 v.使正当
+
+privilege n.特权
+
+privileged n.有特权的，荣幸的
+
+sacrilege n.亵渎圣物的行为
+
+trivialize v.使不重要，使琐碎
+
+mediocre adj.普通的，平凡的
+
+dedicate v.献给，致力于
+
+mediate v.调停，调解
+
+sphere n.球，领域
+
+cheek n.脸蛋
+
+chuck n.抛
+
+chick n.小鸡 adj.胆小的
+
+checkup n.检查，审查
+
+chest n.胸膛，箱子
+
+sheer n.陡峭的 n.透明薄纱衣
+
+postpone v.推迟延迟
+
+proffer v.提出建议 n.提议
+
+offend v.冒犯
+
+intension n.目的，意图
+
+intensional adj.故意的 
+
+contention n.争夺
+
+detention n.拘留，挽留
+
+statesman n.政治家
+
+tradesman n.零售商，工匠
+
+spokesman n.发言人
+
+violation n.违反，违背
+
+location n.位置
+
+avocation n.业余爱好
+
+relocation n.重新配置
+
+affection n.感情 作用 影响
+
+affectionate adj.充满深情的
+
+affective adj.感情的
+
+affectation n.假装
+
+affliction n.苦恼
+
+heel n.鞋后跟 v.给鞋钉后脚掌
+
+heed v.注意
+
+peel v. N. 削皮
+
+nourish v.养育 培育
+
+flourish vi.繁荣，茂盛 vt.挥舞
+
+boorish adj.粗野的，笨拙的
+
+diversion n.绕路
+
+reversion n.逆转，回复
+
+pervade v.普及，弥漫
+
+persuasive adj.有说服力的 n.动机，诱因
+
+dissuade v.劝阻，组织
+
+perspire v.流汗
+
+principal n.校长 adj.主要的，首要的
+
+municipal adj.市政的
+
+principally adv.主要地
+
+provincial adj.省的
+
+incompatible 矛盾的，不兼容的      compatible adj.兼容的
+
+comparable adj.类似的
+
+incorrigible adj.积习难改的，不可救药的
+
+naught n.无，零，泡影 vi.消灭
+
+plough n.犁
+
+slough n.脱皮，绝境
+
+turnover n.交易量
+
+Moreover adv.而且，此外
+
+takeover n.接收，接管，接任
+
+posture 
+
+pasture v.放牧 n.牧场
+
+moisture n.水分，湿气
+
+apparent 
+
+apparel n.服装 v.给。。。穿衣服
+
+adherent n.拥护者
+
+__anatomy__ n.解剖学
+
+analogy n.比喻，类比
+
+minatory adj.有威胁的
+
+mandatory adj.命令的，强制性的
+
+reinforce v.加强，加固
+
+enforce v.强制，实施
+
+smite n.重击 v.打
+
+Senile adj.年老的
+
+pace
+
+pack
+
+workfare n.工作福利制度
+
+preach v.传教，布道
+
+breach n.裂隙，冲击。v.使有裂隙，使损坏
+
+terrific adj.极好的，巨大的，可怕的
+
+terribly adv.极度地，非常，可怕地
+
+merrily adv.高兴地
+
+petrify v.石化，使僵化
+
+senseless adj.不省人事的，无知的，愚蠢的
+
+ceaseless adj.不停的
+
+locate v.定位
+
+relocate v.迁移
+
+placate vt.安慰
+
+vacate v.空出，腾出
+
+Van n. 厢式货车
+
+Pan n.平底锅
+
+compose v.作曲，创作，形成
+
+decompose n. 使腐烂，使分解
+
+franc 法郎
+
+estimated n.评估 v.评估
+
+intimate adj.亲密的密切的。v.暗示，宣布
+
+Ultimate adj.最后的
+
+estimation n.评估，评价，尊重
+
+estimable adj.可估计的，可尊敬的
+
+assimilate v.使同化，消化
+
+dissimulate v.掩饰，假装
+
+annihilate v.消灭
+
+stimulate v.刺激，引起
+
+assimilation n.同化
+
+sincerity n.诚挚
+
+severity n.严格，严肃
+
+integrity n.正直，真诚
+
+seniority n.年长，资历深
+
+Debris n.残骸废墟
+
+hubris adj.傲慢
+
+Ford n.浅滩
+
+accord n.协议 v.授予
+
+affirm v.断定，肯定
+
+colonel n.陆军上校
+
+diabetes n.糖尿病
+
+peach 
+
+perception n.洞察力，观察力
+
+reception n.前台，招待会
+
+deception n.诡计，骗子
+
+perceptive adj.感知的，知觉的，有感知力的
+
+forthcoming adj.即将出现的
+
+fabricate v.伪造，捏造
+
+appropriate adj.合适的 v.挪用
+
+inappropriate adj.不合适的
+
+expropriate v.征用，没收
+
+Misappropriate v.滥用
+
+vile adj.令人恶心的
+
+indelible adj.无法擦除的，无法忘怀的
+
+ineligible adj.不合适的，不适任的
+
+Insensible  adj.昏迷的，麻木不仁的
+
+custom n.风俗 adj.传统的
+
+fork n.人们 adj.民间的
+
+robust adj.健壮的
+
+locust n.蝗虫
+
+rust n.锈
+
+joust n.竞技，厮打 v.马上比武
 
 
 
