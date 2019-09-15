@@ -368,7 +368,7 @@ comrade n.战友
 
 transition n.转变，过渡时期
 
-+ transaction n.交易，办理，事务，学报
++ __transaction__ n.交易，办理，事务，学报
 
 + __transitory__ adj.短暂的
 + __transformer__ n.变压器
@@ -598,9 +598,9 @@ __vicinity__ n.附近地区
 + dignity n.威风
 + divinty n.神，神性，神学
 
-thoughful adj.体贴的
+thoughtful adj.体贴的,沉思的
 
-+ thoughless 欠考虑的，轻率的，不体贴的
++ thoughtless 欠考虑的，轻率的，不体贴的
 + frightful 可怕的
 
 gymnasium n.运动馆，健身房
@@ -644,26 +644,33 @@ devote v.献身于
 contend v.争辩，坚决主张，搏斗
 
 + contest 比赛
+
 + context n.上下文
+
 + dictation
+
 + content n.内容，目录 adj.满足的
 
 passenger n.旅客
 
 + messenger n.乘客
+
 + dissenter n.反对者
+
 + presenter n.主持人
 
 opposite adj.相反的 n.对立物 n.对立地
 
 + composite adj.合成的，复合的 n.复合材料
 
-+ pomposity n.自大，傲慢
++ __pomposity__ n.自大，傲慢
 
 conquer 
 
 + conqueror
+
 + conquest n.征服
+
 + confer v.授予，商讨，协商
 
 lure v.引诱 n.诱惑力，鱼饵
@@ -673,7 +680,9 @@ lure v.引诱 n.诱惑力，鱼饵
 alongside adv.在旁边
 
 + longitude n.经度
+
 + lopsided adj.不平衡的
+
 + downside n.缺点，负面 adj.下降趋势的 
 
 ridge n.脊，岭
@@ -690,11 +699,12 @@ utterly adv.完全地，全然地
 
 extinction n.灭绝，熄灭
 
-perpetrate v.犯罪，做坏事
+__perpetrate__ v.犯罪，做坏事
 
 comrade n.战友
 
 + charade n.看手势猜字谜的游戏
+
 + corrode v.受腐蚀，腐蚀，侵蚀
 
 transition n.转变，过渡时期
@@ -707,7 +717,7 @@ casualty n.受害者
 
 upcoming adj.即将到来的
 
-hatred n.憎恶
+__hatred__ n.憎恶
 
 pulse v.跳动，震动 n.脉冲
 
@@ -761,7 +771,7 @@ burial n.埋葬，葬礼
 
 + bridal n.新娘的，婚礼的
 
-imperaive adj.必要的，祈使的 n.命令，义务
+imperative adj.必要的，祈使的 n.命令，义务
 
 + vituperative adj.责骂的
 
@@ -823,7 +833,7 @@ carve v. n.雕刻
 
 qualification n.资历，条件，资格
 
-nullification n.废弃，取消
+__nullification__ n.废弃，取消
 
 amplification n.放大
 
@@ -857,9 +867,9 @@ trivialize v.使不重要，使琐碎
 
 mediocre adj.普通的，平凡的
 
-dedicate v.献给，致力于
+__dedicate__ v.献给，致力于
 
-mediate v.调停，调解
+__mediate__ v.调停，调解
 
 sphere n.球，领域
 
@@ -877,7 +887,7 @@ sheer n.陡峭的 n.透明薄纱衣
 
 postpone v.推迟延迟
 
-proffer v.提出建议 n.提议
+__proffer__ v.提出建议 n.提议
 
 offend v.冒犯
 
@@ -885,9 +895,9 @@ intension n.目的，意图
 
 intensional adj.故意的 
 
-contention n.争夺
+__contention__ n.争夺
 
-detention n.拘留，挽留
+__detention__ n.拘留，挽留
 
 statesman n.政治家
 
@@ -911,7 +921,7 @@ affective adj.感情的
 
 affectation n.假装
 
-affliction n.苦恼
+__affliction__ n.苦恼
 
 heel n.鞋后跟 v.给鞋钉后脚掌
 
@@ -979,9 +989,9 @@ __anatomy__ n.解剖学
 
 analogy n.比喻，类比
 
-minatory adj.有威胁的
+__minatory__ adj.有威胁的
 
-mandatory adj.命令的，强制性的
+__mandatory__ adj.命令的，强制性的
 
 reinforce v.加强，加固
 
@@ -1007,7 +1017,7 @@ terribly adv.极度地，非常，可怕地
 
 merrily adv.高兴地
 
-petrify v.石化，使僵化
+__petrify__ v.石化，使僵化
 
 senseless adj.不省人事的，无知的，愚蠢的
 
@@ -1019,7 +1029,7 @@ relocate v.迁移
 
 placate vt.安慰
 
-vacate v.空出，腾出
+__vacate__ v.空出，腾出
 
 Van n. 厢式货车
 
@@ -1031,9 +1041,9 @@ decompose n. 使腐烂，使分解
 
 franc 法郎
 
-estimated n.评估 v.评估
+estimate n.评估 v.评估
 
-intimate adj.亲密的密切的。v.暗示，宣布
+__intimate__ adj.亲密的密切的。v.暗示，宣布
 
 Ultimate adj.最后的
 
@@ -1053,7 +1063,7 @@ assimilation n.同化
 
 sincerity n.诚挚
 
-severity n.严格，严肃
+__severity__ n.严格，严肃
 
 integrity n.正直，真诚
 
