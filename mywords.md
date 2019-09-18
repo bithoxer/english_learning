@@ -1125,6 +1125,181 @@ rust n.锈
 
 joust n.竞技，厮打 v.马上比武
 
+unlock
+
+Bony adj.瘦骨嶙峋的,骨的
+
+Definite adj. 肯定的
+
+indefinite adj. 模糊的
+
+berry adj. 浆果
+
+Ferry adj. 渡船
+
+Salvation n. 救赎，拯救
+
+Valuation n.评估 估价 鉴定
+
+Privation n.缺乏，贫困
+
+Salutation n.称呼，招呼，寒暄
+
+Intellectual adj.聪明的 n.知识分子
+
+intellect n.智力，才华出众的人
+ 
+disk n.圆盘。唱片
+
+dusk n.黄昏 v.天变暗
+
+__certified__ v.证实，证明
+
+Decertify vt.收回...的证件
+
+fortify a.设防于，增强
+
+Mortify v.使屈辱，抑制，苦修，约束
+
+Champion n.冠军 v.拥护
+
+Champaign n.活动
+
+Chameleon n.蜥蜴，变色龙，善变的人
+
+Abort v.异常中断，流产
+
+Cavort v.雀跃，欢快的行走
+
+So-called adj.所谓的
+
+Scalpel n.外科手术刀
+
+Preliminary adj.初步的 n.预赛，初试
+
+Tribute n.悼念，致敬，贡品，称赞
+
+tribe n.部落
+
+trite adj.陈腐的
+
+Distribute v.分发，分配，配送，散布
+
+Contribute v.增进，捐助，投稿
+
+Administrative adj. 行政的，政府的
+
+Administrate v. 管理，实施，执行
+
+increasingly 
+
+Modest 
+
+Calorie n.卡路里
+
+Florid adj.涨红的 华丽的，红润的
+
+invasion n.入侵
+
+Evasion n.借口
+
+Occasion n.场合
+
+Zealous adj.热情的
+
+Essence n.精华，精髓
+
+Regime n. 政权
+
+Width 
+
+Fairy n.小精灵
+
+Kerosene n.，煤油
+
+Bless v.
+
+Complexity 
+
+Disinterested adj.公正的
+
+Goal n.(进球）得分
+
+Carbon 碳
+
+Vanish vi. 消失，看不见
+
+Congress n.立法
+
+Segment n.部分，片段
+
+Ache 
+
+__Vanity__ n. 自负
+
+Delegate n.代表 v.委派...为代表
+
+Revolution 
+
+Tag
+
+Dedicate v.献给
+
+Trademark v.登记...作为商标 n.特征
+
+Economy
+
+Feasible n.行得通的
+
+Protest v.抗议，反对 n.声明
+
+Painter n.画家
+
+Majesty n.壮丽，雄伟
+
+Marvelous adj.非凡的，令人惊异的
+
+Visible adj.看得见的，可见的
+
+Crucify v.十字架上钉死
+
+combat n.战斗，格斗 v.与...战斗
+
+rim n.边缘，轮圈
+
+Overnight n.整夜
+
+Deficient adj.有缺陷的
+
+Irrigation n,灌溉
+
+Mechanics n.力学
+
+Sharp 
+
+Rarely 
+
+Coodinate v.使协调，使一致
+
+Hearty adj.衷心的 强烈的 丰盛的
+
+Serious
+
+sincere adj.真挚的
+
+Coalition n.联盟，联合，结合
+
+Gender n.性别
+
+mess n.混乱，肮脏 v.弄乱
+
+
+
+
+
+
+
+
 
 
 
