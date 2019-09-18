@@ -1293,6 +1293,167 @@ Gender n.性别
 
 mess n.混乱，肮脏 v.弄乱
 
+Hatred n.憎恨
+
+Single adj. 未婚的 n. 单程票
+
+Civility n. 礼仪
+
+Civilize v.教育，使文明
+
+Solar adj. 太阳的，日光的
+
+Ampere n. 安培
+
+Plural adj.复数的 n.复数
+
+Particular adj. 不寻常的。挑剔的 n.特殊情况
+
+Requisite n.必需品 adj.必不可少的，必备的
+
+Plentiful adj.富裕的
+
+Otherwise adv.否则
+
+Beifing n.简报
+
+Refine v.精炼
+
+Hire v.雇佣，出租 n.租金
+
+Loosely adv.宽松地，松散地
+
+Definition 
+
+Adjoin v. 与...毗邻，贴近
+
+Handbook n.指南，手册
+
+Civic adj.公民的，城市的
+
+Bitterly adv.极其，非常
+
+Ignorant adj.无知的，愚昧的
+
+Handout n.宣传单,施舍物
+
+__Slaughter__ v.屠宰 n.屠宰
+
+Retail n.v.零售 adv,以零售方式
+
+Upgrade n.改善，提高 v.提高，升级
+
+Lumber v.缓慢移动，隆隆行进 n.木材，废旧家具
+
+Imperative adj.祈使的，必不可少的
+
+Practitioner n.从业者
+
+Rational adj.理性的
+
+Cordial adj.热情友好的，衷心的
+
+Subscription n.订阅，签署，捐款，会费
+
+Crossing n.人行横道
+
+Waitress n.女服务员
+
+Paradise n.乐园
+
+Inaugurate v.为...揭幕，开展
+
+Wax n.蜡 adj.蜡制的 v.给...上蜡
+
+Catching adj.传染的，迷人的，有魅力的
+
+Explode 
+
+Unknown adj.未知的
+
+Fishery n.渔场
+
+Administer v.管理，执行，用（药）
+
+Dominate v.支配，统治,耸立于，俯视 
+
+Agreement n.协议协定
+
+Soviet adj. n.
+
+__Gauge__ n.测量仪，尺度，标准 v.估计，判断，计量
+
+Lightning n.闪电，意外的好运 adj.闪电的，闪电般的，迅速的
+
+Intellect
+
+Equivalent adj.相等的，等值的 n.同义词
+
+Prey n.被捕食者，猎物 v.捕食
+
+Pray
+
+Gray
+
+Miserable adj.痛苦的，悲惨的
+
+Ammunition n.弹药
+
+Corresponding adj.相应的，唯一的，通信的
+
+Prisoner 
+
+Violet n.紫罗兰
+
+Lawful adj.合法的
+
+Assault n.攻击，袭击 v.攻击，袭击
+
+Cow
+
+Cargo n.货物
+
+Forerunner  n.先驱，前兆，预兆
+
+Slim adj.苗条的
+
+Autobiography n.自传
+
+Condition 
+
+Spin v.使旋转 n.纺织
+
+Ought v.应当
+
+Tease v.取笑，挑逗 n.爱戏弄别人者
+
+Dean n.系主任，牧师
+
+Derive v.起源，源于
+
+Cause v.引起，发生
+
+Evident adj.显然的
+
+Branch n.分支
+
+timely adj.及时地，适当地
+
+Search
+
+Tablet n.碑，匾，药片
+
+Permission 
+
+Interface n.界面
+
+Advocate v.提倡，主张 n.辩护者，提倡者，律师
+
+
+
+
+
+
 
 
 
