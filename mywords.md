@@ -821,7 +821,7 @@ inflame n.使燃烧，激怒
 
 inflate v.充气
 
-recovery n.痊愈，恢复
+__recovery__ n.痊愈，恢复
 
 mastery n.权力，优势，掌握，精通
 
