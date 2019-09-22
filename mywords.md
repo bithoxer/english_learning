@@ -1450,6 +1450,459 @@ Interface n.界面
 Advocate v.提倡，主张 n.辩护者，提倡者，律师
 
 
+margin n.边缘，页边空页
+
+Inspiration n.灵感
+
+Narrate v.叙述，旁白
+
+Monstrous adj. 巨大的
+
+Accession n.接近到达
+
+Quantity n.数目
+
+Pickup n.捡起，拾起，皮卡
+
+Criterion n.标准，准则
+
+Make-up n.化妆品
+
+Interfere v.介入。干涉，妨碍
+
+Inlet n.水湾，小湾
+
+Immortal adj.永生的
+
+Overcoat n.大衣
+
+Tortuous adj. 弯弯曲曲的
+
+Slipper 拖鞋
+
+Detour n.弯路
+
+Shade 
+
+Official n.官员，行政人员
+
+Resdential adj. 居住的，住宅的
+
+Definitive adj. 可靠的，决定性的，权威的
+
+vicious adj.凶猛的
+
+Embark v.开始，着手，从事
+
+Ritual n.宗教的仪式，例行仪式
+
+Currency n.货币，流通，流行
+
+Leading adj.首位的，居前的
+
+Brute adj.残忍的 ，无理性的
+
+Groove n.凹槽
+
+Prestige n.威望
+
+Summarise n.总结
+
+Galaxy 
+
+Expedition n.探险队
+
+Collision n.碰撞
+
+Storm n.风暴
+
+Dispatch v.发送（信件，电报等） 
+
+Assistant n.助手 adj.助理的
+
+Terrific adj.极好的
+
+Pound n.英镑
+
+Rectify v.纠正，修复
+
+Fable n.预言
+
+Prophet n.先知，预言者
+
+Airline 
+
+Overcast adj.阴天的
+
+Clearing n.林间空地
+
+Brazen adj.厚脸皮的
+
+Occupy 
+
+Atmospheric adj.大气的，大气层的
+
+Fluctuate n.波动
+
+Lawn n.草坪
+
+Prominent adj.突出的，显眼的
+
+Generosity n.慷慨，大方
+
+Aircraft n.飞行器
+
+Trail n.小道，小径
+
+Thesis n.论文，论题
+
+Quote v.引用
+
+Heel n.脚后跟
+
+Nourish v.哺育
+
+Diversion n.绕路，转移，改变
+
+Principal n.校长
+
+Incompatible adj.不相符的，不兼容的
+
+Laugh 
+
+Turnover n.营业收入
+
+Apparent adj.显然的，明白的
+
+Anatomy n.解剖学
+
+Reinforce v.加强，加固
+
+Smile 
+
+Pack
+
+Workplace 
+
+Preach v.传教
+
+Terrify v.使惊恐
+
+Useless
+
+Locate v.找出...的位置
+
+Trolley n.手推车
+
+Delicacy n.优雅，精致
+
+Widen 
+
+Singer
+
+Fish
+
+Generalize v.归纳，概括
+
+union n.工会，联合
+
+Program n.程序，节目 v.给...编程
+
+Crash v.碰
+
+Saving n.储蓄
+
+Clicks 
+
+__Commence__ v.开始
+
+__Coward__ n.懦夫，胆小鬼
+
+Charge v.充电，充值 n.费用，主管
+
+Stroll n.散步，漫步 v.散步
+
+Endure 
+
+Champagne n.香槟
+
+Forbidding adj.令人生畏的
+
+Count 
+
+Effort 
+
+Gesture n.手势，表情 v.做手势
+
+Personnel n.人事部门，员工
+
+Bomber 
+
+Traverse v.横越，穿过
+
+Distill v.蒸馏
+
+Console v.安慰 n.控制台，仪表
+
+Classify v. 把...分类
+
+Racket n.网球拍
+
+Normalization n.正常化
+
+Obese adj.过胖的
+
+Razor n.剪刀
+
+Siren n.汽笛，警报器
+
+__Temporary__ adj.暂时的
+
+Account n.账户 v.报账 ,认为，考虑，受罚
+
+Indoor 
+
+Fitness n.适当，恰当，健康
+
+Absolutely
+
+Signature n.签名
+
+Target n.目标，靶子
+
+Compassion n.同情，怜悯
+
+Synchronise v.使同步
+
+Temptation n.诱惑
+
+Abbreviation n.缩写，省略，省略号
+
+ Mankind
+
+Cardinal adj.基本的
+
+Racecourse n.赛马场，跑道
+
+Exclaim v.惊呼
+
+Emit v,发出
+
+Destructive adj.破坏性的
+
+Credible adj.可信任的，可靠的，出色的
+
+Bronze n.青铜
+
+Inquiry n.调查，询问，打听
+
+Opportunity n.机会，良机
+
+Emphatic adj.加强语气的
+
+Pale adj.灰白的，暗淡的 n.栅栏
+
+Legendary adj.传说的 n.圣徒传
+
+Cashier n.收银员，出纳员 v.把...撤职
+
+Diverse adj.不同种类的
+
+Adore v.很喜欢，崇拜，爱慕
+
+Accent  n.口音，腔调
+
+Assimilate v.使同质化
+
+Emigrant n.移民 adj.移民的
+
+__Deterioration__ n.变坏
+
+Rooster n.雄鸡，自负的男人
+
+Burdensome adj.沉重的
+
+Slapped v.掌捆 n.侮辱
+
+Cloak n.斗篷，披风
+
+Homely adj.不好看的，朴素的,家庭的
+
+Publicity n.公开性，公共的关注
+
+Gloomy adj.愁容满面的，阴暗的
+
+Assess
+
+Calling n.感召
+
+Stablize v.使稳定
+ 
+__Expire__ v.期满,期限终止
+
+Glorify v.赞美，颂扬
+
+Undo v.解开
+
+Stall n.售货摊 v.停止（因故障）
+
+Cater v.供应伙食
+
+Alternate adj.交替的，轮换的
+
+Material 
+
+Propel v.推动
+
+Intelligence 
+
+Colonel n.陆军上校
+
+Diabetes n.糖尿病
+
+Perception n.洞察力
+
+Fabricate v.仿造。伪造
+
+Feminine adj.女性的
+
+Circular adj.环形的
+
+Saddle n.鞍
+
+Disastrous adj.灾难性的
+
+Ankle n.踝
+
+Invincible adj.不能征服的
+
+Gasoline n.汽油
+
+Liter n.升
+
+Acquistion n.获得，掌握
+
+Truth 
+
+Clockwise adv.顺时针地
+
+Instinct n.天性，本能，直觉
+
+Mirror 
+
+Profound adj.深刻的 n.深海
+
+Chicken 
+
+Profession
+
+Watch
+
+Engine
+
+Steak n.牛排
+
+Auto n.汽车
+
+Mars n.火星
+
+Damage v,损坏
+
+Forest 
+
+Indelible adj.不可擦除的
+
+Cheek n,脸颊
+
+Quart n.夸脱
+
+Metallic adj.金属的
+
+Fuse n.导火线
+
+Drop
+
+Relish v.品尝，享受 n.调味品
+
+Manhood n.男子气概
+
+Oust v.罢免，驱逐
+
+Artistic
+
+Stationary Adj.静止的 n.驻军
+
+Envy
+
+Wildness n.荒地，荒野
+
+Ancestor n.祖先
+
+Second
+
+__Entrust__ v.委托
+
+Psychiatrist n.精神病医生
+
+Lorry n.卡车
+
+Footstep n,足迹
+
+Token n.礼券，代金券 象征
+
+Clash v.发生冲突 n.冲突
+
+Ballet n.选票，投票表决
+
+Intentional adj。故意的
+
+Stock n.股票
+
+Passion
+
+Spinal adj.脊柱的
+
+Cessation n.中断。终止
+
+Policy n.政策
+
+Brook n.小溪 v.忍受
+
+Album n.相册，唱片集
+
+Partial adj.不完全的，偏爱的，偏袒，不公平的
+
+Inconvenient adj.不便的
+
+Slogan n.标语，横幅
+
+Penal adj.刑罚的
+
+Urgency n.紧急，要紧的事
+
+Sector n.（经济的）部门，部分
+
+__Dispose__ v.处理，处置
+
+__Tender__ adj.温柔的，柔弱的 n.煤水车 v.提出意见
+
+Lunatic n.疯子 adj.精神错乱的
+
+Melt
+
+Contemplate v.沉思，注视
+
+Gathering n.聚会，集会
+
+Dispense v.分发，分配
+
+Jury n.陪审团
+
+
+
+
+
+
 
 
 
