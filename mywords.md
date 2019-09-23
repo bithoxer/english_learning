@@ -2035,6 +2035,56 @@ Virtual adj.虚拟的，实质上的
 
 Advert n.广告 v。留意，注意
 
+Architecture n.建筑物
+
+Surrounding n.周围的环境
+
+Sober adj.清醒的，未饮醉的 v.使清醒
+
+Charm 
+
+Colonial adj.殖民地的 n.殖民地居民
+
+Impoverish v.使枯竭，使变成赤贫
+
+Shabby adj.破烂的，卑鄙的
+
+Blende adj.悦耳的，和谐的，协调的
+
+Mosquito n.蚊子
+
+Package 
+
+Seniority n.年长，资历深，职位高
+
+Cheerful adj.高兴的
+
+Humanity n.人性，人道。慈爱
+
+Annoyance n.烦恼
+
+Stream n.小溪
+
+Cimic adj.滑稽的，喜剧的 n.连环漫画杂志
+
+Hysterical adj.歇斯底里的
+
+Microwave
+
+Napkin n.纸巾
+
+Encyclopaedia n.百科全书
+
+Youngster n.年轻人
+
+Condolence n.哀悼，吊唁
+
+Accommodate v.容纳，顺应，向...提供住处
+
+Secure v
+
+Critical adj.危急的，爱挑剔的
+
 
 
 
