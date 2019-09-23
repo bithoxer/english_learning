@@ -2085,6 +2085,98 @@ Secure v
 
 Critical adj.危急的，爱挑剔的
 
+Vanity n.自负
+
+__Delegate__ n.代表
+
+Lark n.云雀，玩笑 v.嬉耍，玩乐
+
+Subtract v，减去
+
+Procession n.队列，列队行进
+
+Accord n.协议 v.授予
+
+Standardize v.使标准化,定下标准
+
+Boot n.长靴，行李箱，箱子
+
+Editorial n.社论 adj.编辑的，编者的
+
+Symptom n.征兆，症状
+
+sing
+
+__Heave__ v.用力举起 n.举起，升降
+
+Knit v.编织
+
+Naked adj.裸体的
+
+Unite v.联合，团结
+
+Suffice v.足够
+
+Mystery n.神秘的事物
+
+Basic
+
+Watertight adj.不透水的，无懈可击的
+
+Brace v.支柱，支撑 n.牙齿定位器
+
+Barrel n.桶，枪管
+
+August 
+
+Grasp v.抓住，领会 n.紧握
+
+Majesty n.壮观
+
+Marvelous adj.非凡的
+
+Crucify v.十字架上钉死
+
+Mere adj.仅仅的，纯粹的
+
+Enterprise n.企业
+
+__Strain__  n.负担 v.拉紧，劳累
+
+Transistor n.晶体管
+
+__Deception__ n.欺骗，诡计
+
+__Vulgar__ adj.粗俗的，下流的，通俗的 n.平民，方言
+
+Recollection n.记忆力
+
+Century 
+
+Livelihood n.生计，生活，谋生方式
+
+Bingo
+
+Decisive adj.决定性的
+
+Classfication n. 
+
+Captive adj.被捕获的，被俘虏的 n.俘虏
+
+Brow n.眉毛
+
+Destination n.目的地
+
+Horrible adj.可怕的，恐怖的
+
+Electoral adj.选举的，选举人的
+
+Favourable adj.有利的，顺利的，良好的
+
+Restrictive adj.限制性的，限制的 n.限制词
+
+Statistics n.统计数据
+
 
 
 
