@@ -1197,7 +1197,7 @@ Modest
 
 Calorie n.卡路里
 
-Florid adj.涨红的 华丽的，红润的
+__Florid__ adj.涨红的 华丽的，红润的
 
 invasion n.入侵
 
@@ -1269,7 +1269,7 @@ rim n.边缘，轮圈
 
 Overnight n.整夜
 
-Deficient adj.有缺陷的
+__Deficient__ adj.有缺陷的
 
 Irrigation n,灌溉
 
@@ -1351,7 +1351,7 @@ Practitioner n.从业者
 
 Rational adj.理性的
 
-Cordial adj.热情友好的，衷心的
+__Cordial__ adj.热情友好的，衷心的
 
 Subscription n.订阅，签署，捐款，会费
 
@@ -1361,7 +1361,7 @@ Waitress n.女服务员
 
 Paradise n.乐园
 
-Inaugurate v.为...揭幕，开展
+__Inaugurate__ v.为...揭幕，开展
 
 Wax n.蜡 adj.蜡制的 v.给...上蜡
 
@@ -1429,7 +1429,7 @@ Tease v.取笑，挑逗 n.爱戏弄别人者
 
 Dean n.系主任，牧师
 
-Derive v.起源，源于
+__Derive__ v.起源，源于
 
 Cause v.引起，发生
 
@@ -1454,7 +1454,7 @@ margin n.边缘，页边空页
 
 Inspiration n.灵感
 
-Narrate v.叙述，旁白
+__Narrate__ v.叙述，旁白
 
 Monstrous adj. 巨大的
 
@@ -1480,7 +1480,7 @@ Tortuous adj. 弯弯曲曲的
 
 Slipper 拖鞋
 
-Detour n.弯路
+__Detour__ n.弯路
 
 Shade 
 
@@ -1494,7 +1494,7 @@ vicious adj.凶猛的
 
 Embark v.开始，着手，从事
 
-Ritual n.宗教的仪式，例行仪式
+__Ritual__ n.宗教的仪式，例行仪式
 
 Currency n.货币，流通，流行
 
@@ -1504,7 +1504,7 @@ Brute adj.残忍的 ，无理性的
 
 Groove n.凹槽
 
-Prestige n.威望
+__Prestige__ n.威望
 
 Summarise n.总结
 
@@ -1516,7 +1516,7 @@ Collision n.碰撞
 
 Storm n.风暴
 
-Dispatch v.发送（信件，电报等） 
+__Dispatch__ v.发送（信件，电报等） 
 
 Assistant n.助手 adj.助理的
 
@@ -1546,7 +1546,7 @@ Fluctuate n.波动
 
 Lawn n.草坪
 
-Prominent adj.突出的，显眼的
+__Prominent__ adj.突出的，显眼的
 
 Generosity n.慷慨，大方
 
@@ -1654,7 +1654,7 @@ Obese adj.过胖的
 
 Razor n.剪刀
 
-Siren n.汽笛，警报器
+__Siren__ n.汽笛，警报器
 
 __Temporary__ adj.暂时的
 
@@ -1674,15 +1674,15 @@ Compassion n.同情，怜悯
 
 Synchronise v.使同步
 
-Temptation n.诱惑
+__Temptation__ n.诱惑 *
 
 Abbreviation n.缩写，省略，省略号
 
  Mankind
 
-Cardinal adj.基本的
+__Cardinal__ adj.基本的
 
-Racecourse n.赛马场，跑道
+__Racecourse__ n.赛马场，跑道
 
 Exclaim v.惊呼
 
@@ -1720,11 +1720,11 @@ __Deterioration__ n.变坏
 
 Rooster n.雄鸡，自负的男人
 
-Burdensome adj.沉重的
+__Burdensome__ adj.沉重的
 
-Slapped v.掌捆 n.侮辱
+Slap v.掌捆 n.侮辱
 
-Cloak n.斗篷，披风
+__Cloak__ n.斗篷，披风
 
 Homely adj.不好看的，朴素的,家庭的
 
@@ -1740,7 +1740,7 @@ Stablize v.使稳定
  
 __Expire__ v.期满,期限终止
 
-Glorify v.赞美，颂扬
+__Glorify__ v.赞美，颂扬
 
 Undo v.解开
 
@@ -1752,7 +1752,7 @@ Alternate adj.交替的，轮换的
 
 Material 
 
-Propel v.推动
+__Propel__ v.推动
 
 Intelligence 
 
@@ -1786,11 +1786,11 @@ Truth
 
 Clockwise adv.顺时针地
 
-Instinct n.天性，本能，直觉
+__Instinct__ n.天性，本能，直觉
 
 Mirror 
 
-Profound adj.深刻的 n.深海
+__Profound__ adj.深刻的 n.深海
 
 Chicken 
 
@@ -1822,7 +1822,7 @@ Fuse n.导火线
 
 Drop
 
-Relish v.品尝，享受 n.调味品
+__Relish__ v.品尝，享受 n.调味品
 
 Manhood n.男子气概
 
@@ -1840,17 +1840,17 @@ Ancestor n.祖先
 
 Second
 
-__Entrust__ v.委托
+__Entrust__ v.委托 *
 
-Psychiatrist n.精神病医生
+__Psychiatrist__ n.精神病医生
 
 Lorry n.卡车
 
 Footstep n,足迹
 
-Token n.礼券，代金券 象征
+__Token__ n.礼券，代金券 象征
 
-Clash v.发生冲突 n.冲突
+__Clash__ v.发生冲突 n.冲突
 
 Ballet n.选票，投票表决
 
@@ -1860,13 +1860,13 @@ Stock n.股票
 
 Passion
 
-Spinal adj.脊柱的
+__Spinal__ adj.脊柱的
 
-Cessation n.中断。终止
+Cessation n.中断,终止
 
 Policy n.政策
 
-Brook n.小溪 v.忍受
+__Brook__ n.小溪 v.忍受
 
 Album n.相册，唱片集
 
@@ -1876,27 +1876,39 @@ Inconvenient adj.不便的
 
 Slogan n.标语，横幅
 
-Penal adj.刑罚的
+__Penal__ adj.刑罚的
 
 Urgency n.紧急，要紧的事
 
 Sector n.（经济的）部门，部分
 
-__Dispose__ v.处理，处置
+__Dispose__ v.处理，处置 *
 
-__Tender__ adj.温柔的，柔弱的 n.煤水车 v.提出意见
+__Tender__ adj.温柔的，柔弱的 n.煤水车 v.提出意见 *
 
 Lunatic n.疯子 adj.精神错乱的
 
 Melt
 
-Contemplate v.沉思，注视
+__Contemplate__ v.沉思，注视
 
 Gathering n.聚会，集会
 
-Dispense v.分发，分配
+__Dispense__ v.分发，分配
 
 Jury n.陪审团
+
+Certify v.确定，证实
+
+Abort v.异常中断，终止
+
+So-called adv.所谓的
+
+Preliminary adj.初步的
+
+Tribute n.哀悼，纪念
+
+Zealous adj.狂热的
 
 
 
