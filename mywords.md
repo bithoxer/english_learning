@@ -1911,12 +1911,129 @@ Tribute n.哀悼，纪念
 Zealous adj.狂热的
 
 
+Miraculars adj.不可思议的，奇迹般的
 
+Trunk n.象鼻，躯干
 
+Confront v.与...对抗，正视
 
+Observant adj.机警的
 
+Hiterto adv.迄今为止
 
+__Quench__ v.扑灭
 
+Interior adj.内部的 n.内心
+
+Original adj.有独创性的，原初的，新颖的
+
+Discharge v.放电 n.释放
+
+Sculpture n.雕刻，雕刻艺术
+
+Consume v.消耗，吃光 
+
+Permeate v.普及，弥漫
+
+Irregularity n.不规律，无常，不良行为
+
+Spare adj.备用的，多余的 n.零件 v.抽出
+
+Petty adj.价值不大的，小的，琐碎的
+
+Violent. Violet. 
+
+Storey n.楼层
+
+Perspective n。视角，观点
+
+Steer v.驾驶，引导 n.公牛
+
+Specialty n.特色菜，专业
+
+Methodology n.方法论
+
+Instantaneous adj.瞬间的
+
+Corruption 
+
+Stab v.刺，戳 n.刺痛，尝试,努力
+
+Meditation n.沉思，冥想
+
+Shield n.盾
+
+__Commemorate__ v.纪念，庆祝
+
+Assassin 杀手，刺客
+
+Recognize v，认出，辨别
+
+Convention n.年会，习俗，惯例
+
+Multiplication n.乘法
+
+Nut
+
+Objective n.目标
+
+President 
+
+United
+
+Sow v.播种 n.母猪
+
+Staff n.职员
+
+Tactical adj.手段的，战术的
+
+__Taboo__ n.禁忌，戒律 adj.忌讳的，戒律的
+
+Vanilla n.香草精
+
+Vase n.花瓶
+
+Bow 
+
+Scholarly adj.学者气质的，学术的
+
+Condom n.安全套
+
+__Bid__ n.v.出价，投标 v.道别
+
+Brush n.画笔 v.掠过
+
+Elasticity n.弹性，弹力
+
+Faithful adj.忠诚的
+
+Adoption n.收养，采用,采纳
+
+Cigar n.香烟
+
+Quantitative adj.定量的
+
+__Grill__ v.烤 n.烤架
+
+Oxygen n.氧气
+
+__Cholesterol__ n.胆固醇
+
+Hare n.兔子 V.飞跑
+
+Moustache n.小胡子
+
+Envisage v,想象
+
+Choke 
+
+Aptitude n.天资
+
+Radioactive adj.有辐射性的
+
+Virtual adj.虚拟的，实质上的
+
+Advert n.广告 v。留意，注意
 
 
 
