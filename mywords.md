@@ -2182,6 +2182,126 @@ Statistics n.统计数据
 
 
 
+9_25
+
+Greedy
+
+Limitation
+
+__Chronicle__ n.编年史，年代记，记录 v.记录
+
+Troublesome adj.讨厌的
+
+Caress v.抚摸，拥抱 n.爱抚
+
+Extraction n.抽出，取出
+
+Cattle n.牛，牲口
+
+Sympathetic adj.同情的
+
+Favour n.帮助，好感，赞成 v.偏爱，帮助
+
+Fateful adj.决定性的
+
+__Sole__ n.脚底，鞋底，袜底 adj.独有的 v.装鞋底 *
+
+Lunar adj.月亮的
+
+Pine n.松树 v.（因死亡，离别）难过，悲伤
+
+Tribe n.部落
+
+Suicide n.自杀
+
+Democracy n.民主制度，民主国家。民众
+
+Insurance n.保险，保险费
+
+__Sonorous__ adj.响亮的，能发出响亮声音的
+
+__Futile__ adj.无用的
+
+Sly adj.狡猾的
+
+Up-to-date adj.时新的，新式的，跟上时代的
+
+Rust v.生锈，氧化 n。锈
+
+Shrub n.灌木
+
+Sense n.感官 v.感觉到
+
+Subsequent adj。随后的
+
+goat n.山羊
+
+Impressive adj.令人印象深刻的
+
+__Scope__ n.瞄准镜
+
+Absorb v.吸收
+
+Spread
+
+Pigeon n.咕咕咕
+
+Identical adj.完全一样的 n.完全相同的事物
+
+By-product n.副产品
+
+Pessimistic adj.悲观主义的
+
+Freshman n.新生
+
+Pillow n.枕头 v.垫着
+
+Pedal v.踩踏板 n.踏板
+
+__Constitutional__ adj.宪法的，合乎宪法的 n.保健运动
+
+Chiefly adv.主要地
+
+Scissors n.剪刀
+
+Extinction n.灭绝，消失
+
+Offset v.抵消 n.分支，抵销
+
+Dip v.浸，蘸 n.倾斜，下降
+
+Aeroplane n.飞机
+
+Gratitude n.感激
+
+Abolish v,废除，废止
+
+Battalion n.部队，军队
+
+indefinite adj.模糊的
+
+__Diploma__ n.毕业证书
+
+__Crumble__ v.弄碎，崩溃，破灭 n.碎屑，面包屑 *
+
+exposure n.暴露，受寒，揭露
+
+Supper n.晚餐
+
+Supplementary adj.补充的，附加的 n.补充者
+
+Lace n.花边 v.加以修饰
+
+Lease v.出租 n.租约
+
+Concave adj.凹面的 n.凹面
+
+Congratulate v.祝贺
+
+
+
+
+
 
 
 
