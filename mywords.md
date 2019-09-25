@@ -1269,9 +1269,9 @@ rim n.边缘，轮圈
 
 Overnight n.整夜
 
-__Deficient__ adj.有缺陷的
+__Deficient__ adj.有缺陷的 * 
 
-Irrigation n,灌溉
+__Irrigation__ n,灌溉
 
 Mechanics n.力学
 
@@ -1287,7 +1287,7 @@ Serious
 
 sincere adj.真挚的
 
-Coalition n.联盟，联合，结合
+__Coalition__ n.联盟，联合，结合
 
 Gender n.性别
 
@@ -1297,7 +1297,7 @@ Hatred n.憎恨
 
 Single adj. 未婚的 n. 单程票
 
-Civility n. 礼仪
+__Civility__ n. 礼仪
 
 Civilize v.教育，使文明
 
@@ -1910,8 +1910,9 @@ Tribute n.哀悼，纪念
 
 Zealous adj.狂热的
 
+9_24
 
-Miraculars adj.不可思议的，奇迹般的
+__Miraculars__ adj.不可思议的，奇迹般的
 
 Trunk n.象鼻，躯干
 
@@ -1933,21 +1934,21 @@ Sculpture n.雕刻，雕刻艺术
 
 Consume v.消耗，吃光 
 
-Permeate v.普及，弥漫
+__Permeate__ v.普及，弥漫
 
 Irregularity n.不规律，无常，不良行为
 
-Spare adj.备用的，多余的 n.零件 v.抽出
+__Spare__ adj.备用的，多余的 n.零件 v.抽出
 
 Petty adj.价值不大的，小的，琐碎的
 
 Violent. Violet. 
 
-Storey n.楼层
+__Storey__ n.楼层
 
 Perspective n。视角，观点
 
-Steer v.驾驶，引导 n.公牛
+__Steer__ v.驾驶，引导 n.公牛
 
 Specialty n.特色菜，专业
 
@@ -2017,13 +2018,13 @@ __Grill__ v.烤 n.烤架
 
 Oxygen n.氧气
 
-__Cholesterol__ n.胆固醇
+__Cholesterol__ n.胆固醇 *
 
 Hare n.兔子 V.飞跑
 
 Moustache n.小胡子
 
-Envisage v,想象
+__Envisage__ v,想象
 
 Choke 
 
@@ -2039,17 +2040,19 @@ Architecture n.建筑物
 
 Surrounding n.周围的环境
 
-Sober adj.清醒的，未饮醉的 v.使清醒
+__Sober__ adj.清醒的，未饮醉的 v.使清醒
 
 Charm 
 
-Colonial adj.殖民地的 n.殖民地居民
+__Colonial__ adj.殖民地的 n.殖民地居民
 
-Impoverish v.使枯竭，使变成赤贫
+__Impoverish__ v.使枯竭，使变成赤贫
 
 Shabby adj.破烂的，卑鄙的
 
 Blende adj.悦耳的，和谐的，协调的
+
+Harmonous adj.悦耳的
 
 Mosquito n.蚊子
 
@@ -2067,29 +2070,29 @@ Stream n.小溪
 
 Cimic adj.滑稽的，喜剧的 n.连环漫画杂志
 
-Hysterical adj.歇斯底里的
+__Hysterical__ adj.歇斯底里的
 
 Microwave
 
-Napkin n.纸巾
+__Napkin__ n.纸巾
 
-Encyclopaedia n.百科全书
+__Encyclopaedia__ n.百科全书
 
 Youngster n.年轻人
 
-Condolence n.哀悼，吊唁
+__Condolence__ n.哀悼，吊唁 *
 
 Accommodate v.容纳，顺应，向...提供住处
 
 Secure v
 
-Critical adj.危急的，爱挑剔的
+Critical adj. __危急的__ ，爱挑剔的
 
 Vanity n.自负
 
 __Delegate__ n.代表
 
-Lark n.云雀，玩笑 v.嬉耍，玩乐
+__Lark__ n.云雀，玩笑 v.嬉耍，玩乐
 
 Subtract v，减去
 
@@ -2107,15 +2110,15 @@ Symptom n.征兆，症状
 
 sing
 
-__Heave__ v.用力举起 n.举起，升降
+__Heave__ v.用力举起 n.举起，升降 *
 
-Knit v.编织
+__Knit__ v.编织
 
 Naked adj.裸体的
 
 Unite v.联合，团结
 
-Suffice v.足够
+__Suffice__ v.足够
 
 Mystery n.神秘的事物
 
@@ -2125,7 +2128,7 @@ Watertight adj.不透水的，无懈可击的
 
 Brace v.支柱，支撑 n.牙齿定位器
 
-Barrel n.桶，枪管
+__Barrel__ n.桶，枪管
 
 August 
 
@@ -2145,9 +2148,9 @@ __Strain__  n.负担 v.拉紧，劳累
 
 Transistor n.晶体管
 
-__Deception__ n.欺骗，诡计
+__Deception__ n.欺骗，诡计 *
 
-__Vulgar__ adj.粗俗的，下流的，通俗的 n.平民，方言
+__Vulgar__ adj.粗俗的，下流的，通俗的 n.平民，方言 *
 
 Recollection n.记忆力
 
@@ -2157,7 +2160,7 @@ Livelihood n.生计，生活，谋生方式
 
 Bingo
 
-Decisive adj.决定性的
+__Decisive__ adj.决定性的
 
 Classfication n. 
 
@@ -2173,7 +2176,7 @@ Electoral adj.选举的，选举人的
 
 Favourable adj.有利的，顺利的，良好的
 
-Restrictive adj.限制性的，限制的 n.限制词
+__Restrictive__ adj.限制性的，限制的 n.限制词
 
 Statistics n.统计数据
 
