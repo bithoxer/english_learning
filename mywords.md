@@ -1325,7 +1325,7 @@ Loosely adv.宽松地，松散地
 
 Definition 
 
-Adjoin v. 与...毗邻，贴近
+__Adjoin__ v. 与...毗邻，贴近
 
 Handbook n.指南，手册
 
@@ -1339,11 +1339,11 @@ Handout n.宣传单,施舍物
 
 __Slaughter__ v.屠宰 n.屠宰
 
-Retail n.v.零售 adv,以零售方式
+__Retail__ n.v.零售 adv,以零售方式
 
 Upgrade n.改善，提高 v.提高，升级
 
-Lumber v.缓慢移动，隆隆行进 n.木材，废旧家具
+__Lumber__ v.缓慢移动，隆隆行进 n.木材，废旧家具
 
 Imperative adj.祈使的，必不可少的
 
@@ -1353,7 +1353,7 @@ Rational adj.理性的
 
 __Cordial__ adj.热情友好的，衷心的
 
-Subscription n.订阅，签署，捐款，会费
+__Subscription__ n.订阅，签署，捐款，会费
 
 Crossing n.人行横道
 
@@ -2188,11 +2188,11 @@ Greedy
 
 Limitation
 
-__Chronicle__ n.编年史，年代记，记录 v.记录
+__Chronicle__ n.编年史，年代记，记录 v.记录. *
 
 Troublesome adj.讨厌的
 
-Caress v.抚摸，拥抱 n.爱抚
+Caress v.抚摸，拥抱 n.爱抚. *
 
 Extraction n.抽出，取出
 
@@ -2218,11 +2218,11 @@ Democracy n.民主制度，民主国家。民众
 
 Insurance n.保险，保险费
 
-__Sonorous__ adj.响亮的，能发出响亮声音的
+__Sonorous__ adj.响亮的，能发出响亮声音的 *
 
-__Futile__ adj.无用的
+__Futile__ adj.无用的 *
 
-Sly adj.狡猾的
+Sly adj.狡猾的 *
 
 Up-to-date adj.时新的，新式的，跟上时代的
 
@@ -2282,7 +2282,7 @@ indefinite adj.模糊的
 
 __Diploma__ n.毕业证书
 
-__Crumble__ v.弄碎，崩溃，破灭 n.碎屑，面包屑 *
+__Crumble__ v.弄碎，崩溃，破灭 n.碎屑，面包屑 **
 
 exposure n.暴露，受寒，揭露
 
@@ -2294,9 +2294,184 @@ Lace n.花边 v.加以修饰
 
 Lease v.出租 n.租约
 
-Concave adj.凹面的 n.凹面
+__Concave__ adj.凹面的 n.凹面
 
 Congratulate v.祝贺
+
+9_26
+
+Productivity n.生产率
+
+Sympathy 
+
+Supply 
+
+Characteristic n.特点adj.典型的
+
+Subsistence n.生存，存在
+
+Animal 
+
+__Spur__ v.策马 n.刺激，鞭策，鼓励
+
+__Plight__ n.困境 v.宣誓，保证
+
+Balloon 气球
+
+Spaceship 
+
+Chop v.切，砍 n.砍，劈，剁
+
+Pencil
+
+Electrician n.电工
+
+Extinct adj.灭绝的
+
+Extract v.提取，取出，摘录 n.摘录 
+
+Extent n.范围，程度，宽度，长度
+
+Expression
+
+Oppression n.压迫
+
+Awfully adv.非常
+
+Discontent n.不满 adj.不满的
+
+Toothache 牙痛
+
+Smash v.猛冲，粉碎，击溃 n.破碎声，巨大的成功
+
+__Toxic__ adj.有毒的 n.毒物
+
+Therefore adv.因此
+
+Spelling n.拼写
+
+Landscape n.风景，风景画 v.美化环境
+
+Rescue v.营救
+
+Corporate adj.公司的，全体的，共同的
+
+Knee 
+
+Phrase n.短语，习语
+
+__Deduct__ v.减去
+
+__Correlate__ v.（使）相关联
+
+Prosperity n.繁荣，兴旺，发达
+
+Compartment n.分割间
+
+Doctor n.医生 v.修复，修理，改写文稿
+
+regret
+
+__Aesthetic__ adj.美学的，审美的，悦耳的，雅致的
+
+Seek
+
+Broker n.经纪人 v.作为中间人进行谈判
+
+Smooth adj.光滑的，平稳的 v.使光滑
+
+Frequency n.频率，频繁，屡次发生
+
+treasure n.财宝，不可多得的人才 v.珍视
+
+Unification n.一致，联合，统一
+
+Restless adj.烦躁不安的，焦虑的
+
+Compass n.罗盘
+
+Sharpen v.削尖，磨快，使敏捷
+
+Auditorium n.讲堂，听众席
+
+Generate 
+
+Electrical
+
+__Furnace__ n.炉子，熔炉
+
+Island 
+
+Marathon n.马拉松赛跑 adj.马拉松式的 v.参加马拉松赛跑
+
+Steady adj.稳定的 v.使稳固
+
+Tan n.晒黑 v.硝制（皮革）
+
+Civilian n.平民，百姓 adj.平民的，民用的
+
+Concern
+
+Colony n.殖民地
+
+Pint n.品脱
+
+Mechanism n.机械装置
+
+Swarm n.蜂群，一群 v.蜂拥
+
+Indispensable adj.必不可少的
+
+Insulator n.绝缘体
+
+Barricade n.路障，栅栏，障碍物 v.设路障，挡住
+
+Pay n.工资，薪金 v.支付
+
+Shortly adv.不久，立刻
+
+__Neutralize__ v.使无效,使中立化
+
+Severe adj.严酷的，严重的，剧烈的
+
+Emerge v.冲出，出现，冒出，浮现
+
+Continent 洲
+
+Edition n.版本
+
+Worthwhile adj.有意义的
+
+Literary adj.文学上的，文学的
+
+Literacy n.教养，识字，有文化
+
+Structural adj.结构的
+
+Welfare 
+
+__Contour__ n.轮廓，等高线，概要 v.画轮廓
+
+Mole n.黑痣，内奸
+
+Class  n.课，阶级，社会等级
+
+Coherent adj.协调一致的
+
+Inherent adj.内在的
+
+Incoherent adj.不连贯的，语无伦次的 
+
+Chew v.n.
+
+Wretched adj.可怜的，身心疲惫的
+
+
+
+
+
+
+
 
 
 
