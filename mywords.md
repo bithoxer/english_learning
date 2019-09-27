@@ -1351,9 +1351,9 @@ Practitioner n.从业者
 
 Rational adj.理性的
 
-__Cordial__ adj.热情友好的，衷心的
+__Cordial__ adj.热情友好的，衷心的 *
 
-__Subscription__ n.订阅，签署，捐款，会费
+__Subscription__ n.订阅，签署，捐款，会费 *
 
 Crossing n.人行横道
 
@@ -1361,7 +1361,7 @@ Waitress n.女服务员
 
 Paradise n.乐园
 
-__Inaugurate__ v.为...揭幕，开展
+__Inaugurate__ v.为...揭幕，开展 *
 
 Wax n.蜡 adj.蜡制的 v.给...上蜡
 
@@ -1381,7 +1381,7 @@ Agreement n.协议协定
 
 Soviet adj. n.
 
-__Gauge__ n.测量仪，尺度，标准 v.估计，判断，计量
+__Gauge__ n.测量仪，尺度，标准 v.估计，判断，计量 *
 
 Lightning n.闪电，意外的好运 adj.闪电的，闪电般的，迅速的
 
@@ -2308,13 +2308,13 @@ Supply
 
 Characteristic n.特点adj.典型的
 
-Subsistence n.生存，存在
+__Subsistence__ n.生存，存在
 
 Animal 
 
 __Spur__ v.策马 n.刺激，鞭策，鼓励
 
-__Plight__ n.困境 v.宣誓，保证
+__Plight__ n.困境 v.宣誓，保证 *
 
 Balloon 气球
 
@@ -2344,7 +2344,7 @@ Toothache 牙痛
 
 Smash v.猛冲，粉碎，击溃 n.破碎声，巨大的成功
 
-__Toxic__ adj.有毒的 n.毒物
+__Toxic__ adj.有毒的 n.毒物 *
 
 Therefore adv.因此
 
@@ -2354,7 +2354,7 @@ Landscape n.风景，风景画 v.美化环境
 
 Rescue v.营救
 
-Corporate adj.公司的，全体的，共同的
+__Corporate__ adj.公司的，全体的，共同的
 
 Knee 
 
@@ -2366,13 +2366,13 @@ __Correlate__ v.（使）相关联
 
 Prosperity n.繁荣，兴旺，发达
 
-Compartment n.分割间
+__Compartment__ n.分割间
 
 Doctor n.医生 v.修复，修理，改写文稿
 
 regret
 
-__Aesthetic__ adj.美学的，审美的，悦耳的，雅致的
+__Aesthetic__ adj.美学的，审美的，悦耳的，雅致的 *
 
 Seek
 
@@ -2392,17 +2392,17 @@ Compass n.罗盘
 
 Sharpen v.削尖，磨快，使敏捷
 
-Auditorium n.讲堂，听众席
+__Auditorium__ n.讲堂，听众席
 
 Generate 
 
 Electrical
 
-__Furnace__ n.炉子，熔炉
+__Furnace__ n.炉子，熔炉 *
 
 Island 
 
-Marathon n.马拉松赛跑 adj.马拉松式的 v.参加马拉松赛跑
+Marathon n.马拉松赛跑 adj.马拉松式的 v.参加马拉松赛跑 42km
 
 Steady adj.稳定的 v.使稳固
 
@@ -2430,11 +2430,11 @@ Pay n.工资，薪金 v.支付
 
 Shortly adv.不久，立刻
 
-__Neutralize__ v.使无效,使中立化
+__Neutralize__ v.使无效,使中立化 *
 
 Severe adj.严酷的，严重的，剧烈的
 
-Emerge v.冲出，出现，冒出，浮现
+__Emerge__ v.冲出，出现，冒出，浮现
 
 Continent 洲
 
@@ -2450,7 +2450,7 @@ Structural adj.结构的
 
 Welfare 
 
-__Contour__ n.轮廓，等高线，概要 v.画轮廓
+__Contour__ n.轮廓，等高线，概要 v.画轮廓 *
 
 Mole n.黑痣，内奸
 
@@ -2464,19 +2464,149 @@ Incoherent adj.不连贯的，语无伦次的
 
 Chew v.n.
 
-Wretched adj.可怜的，身心疲惫的
+__Wretched__ adj.可怜的，身心疲惫的
 
 
 
+9_27
 
+Appreciative adj.赞赏的，感激的
 
+Asset n.财产，资产
 
+Coverage n.新闻报道，覆盖范围
 
+Odour n.臭气，气味
 
+Historic adj.历史上著名的
 
+Snobbish adj.势利的，自命不凡的
 
+Curricula n.课程
 
+Counter n.收银台，回击，反击  v.抵销，抗衡 adv.相反地
 
+Crew n.（飞机轮船等的）全体工作人员
+
+__Medieval__ adj.中世纪的
+
+Zinc  n.锌 v.镀锌于
+
+Reg n.抹布
+
+__Piracy__ n.剽窃，海上掠夺
+
+Accommodation n.住宿，膳食供应
+
+Superior n.上级，高手 adj.较高级的，上层的
+
+__Inertia__ n.惯性，惰性 **
+
+Tape 卷尺
+
+Lane n.小径，巷
+
+__Affectation__ n.假装，做作，装模作样
+
+Identify v.区分，识别，联系，鉴定
+
+Rub v.抚摸，擦破 n.磨损处
+
+Sharply adj.锐利地，敏锐地，急剧地
+
+Usage n.使用，用法
+
+Bin n.箱柜，仓，垃圾箱 v.放入箱内
+
+__Metropolitan__ adj.大都市的，大城市的
+
+Formal adj.正式的，规范的，合乎规矩的，形式上的
+
+Serve v.为...服务，招待，供应，服役
+
+Edible adj.可食用的
+
+Occupant n.占有者，居住着
+
+audience n.听众，观众
+
+__Torrent__ n.湍流，洪流
+
+__Parcel__  n.包裹
+
+Imprisonment n.关押
+
+__Perpendicular__ adj.垂直的，直立的 n.垂直线
+
+Acknowledge v.告知收到，招呼，致意，感谢，答谢，承认
+
+Frown n.皱眉 v.不赞成，使哑口无言
+
+Gallon n.加仑 约4升
+
+__Surgery__ n.外科手术
+
+Explosion n.爆炸
+
+Narrow
+
+Trick n.恶作剧，诡计，技法 v.捉弄
+
+Condemn v。谴责，责备
+
+Chunk n.大块，大量
+
+__Exclamation__ n.感叹号 *
+
+Endanger v.危及，危害
+
+Response n.响应
+
+Reproduction n.复制品
+
+__repel__ v.排斥，抵制，击退
+
+Grid n.格子，地图坐标
+
+Transcend v.超越，超过
+
+Lid n.盖子
+
+__Infant__ n.幼儿，婴儿 adj.婴儿的
+
+__Mirage__ n.幻影，海市蜃楼
+
+Bar n.酒吧,棒，门闩，障碍
+
+Equality n.平等
+
+Relay n.接力赛跑 v.转播
+
+__Dramatically__ adv.显著地，剧烈地
+
+Banker n.银行家
+
+Nestle v.依偎，安顿下来
+
+Unpaid adj.未支付的
+
+Salesman n.售货员，推销员
+
+Transparent adj.透明的
+
+Colonize v.在（某处）开拓殖民地，（为了政治目的）打入，混入（某部门）
+
+Semiconductor n.半导体
+
+Remains n.残余
+
+Loose adj.宽松的，不严谨的 v.放松
+
+Pierce v.穿孔
+
+__anguish__ n.痛苦，苦恼 v.使感到极度苦恼
+
+Tropical adj.热带的
 
 
 
