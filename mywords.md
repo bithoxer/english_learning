@@ -1395,11 +1395,11 @@ Pray
 
 Gray
 
-Miserable adj.痛苦的，悲惨的
+__Miserable__ adj.痛苦的，悲惨的
 
 Ammunition n.弹药
 
-Corresponding adj.相应的，唯一的，通信的
+__Corresponding__ adj.相应的，唯一的，通信的
 
 Prisoner 
 
@@ -1411,7 +1411,7 @@ Assault n.攻击，袭击 v.攻击，袭击
 
 Cow
 
-Cargo n.货物
+__Cargo__ n.货物
 
 Forerunner  n.先驱，前兆，预兆
 
@@ -1421,15 +1421,15 @@ Autobiography n.自传
 
 Condition 
 
-Spin v.使旋转 n.纺织
+__Spin__ v.使旋转 n.纺织
 
 Ought v.应当
 
-Tease v.取笑，挑逗 n.爱戏弄别人者
+__Tease__ v.取笑，挑逗 n.爱戏弄别人者
 
-Dean n.系主任，牧师
+__Dean__ n.系主任，牧师
 
-__Derive__ v.起源，源于
+__Derive__ v.起源，源于 *
 
 Cause v.引起，发生
 
@@ -2482,17 +2482,17 @@ Historic adj.历史上著名的
 
 Snobbish adj.势利的，自命不凡的
 
-Curricula n.课程
+__Curricula__ n.课程
 
 Counter n.收银台，回击，反击  v.抵销，抗衡 adv.相反地
 
 Crew n.（飞机轮船等的）全体工作人员
 
-__Medieval__ adj.中世纪的
+__Medieval__ adj.中世纪的 *
 
 Zinc  n.锌 v.镀锌于
 
-Reg n.抹布
+Rag n.抹布
 
 __Piracy__ n.剽窃，海上掠夺
 
@@ -2500,7 +2500,7 @@ Accommodation n.住宿，膳食供应
 
 Superior n.上级，高手 adj.较高级的，上层的
 
-__Inertia__ n.惯性，惰性 **
+__Inertia__ n.惯性，惰性 ***
 
 Tape 卷尺
 
@@ -2518,7 +2518,7 @@ Usage n.使用，用法
 
 Bin n.箱柜，仓，垃圾箱 v.放入箱内
 
-__Metropolitan__ adj.大都市的，大城市的
+__Metropolitan__ adj.大都市的，大城市的 *
 
 Formal adj.正式的，规范的，合乎规矩的，形式上的
 
@@ -2532,7 +2532,7 @@ audience n.听众，观众
 
 __Torrent__ n.湍流，洪流
 
-__Parcel__  n.包裹
+__Parcel__  n.包裹 *
 
 Imprisonment n.关押
 
@@ -2552,7 +2552,7 @@ Narrow
 
 Trick n.恶作剧，诡计，技法 v.捉弄
 
-Condemn v。谴责，责备
+__Condemn__ v。谴责，责备
 
 Chunk n.大块，大量
 
@@ -2564,7 +2564,7 @@ Response n.响应
 
 Reproduction n.复制品
 
-__repel__ v.排斥，抵制，击退
+__repel__ v.排斥，抵制，击退 *
 
 Grid n.格子，地图坐标
 
@@ -2586,7 +2586,7 @@ __Dramatically__ adv.显著地，剧烈地
 
 Banker n.银行家
 
-Nestle v.依偎，安顿下来
+__Nestle__ v.依偎，安顿下来
 
 Unpaid adj.未支付的
 
@@ -2602,12 +2602,154 @@ Remains n.残余
 
 Loose adj.宽松的，不严谨的 v.放松
 
-Pierce v.穿孔
+__Pierce__ v.穿孔
 
 __anguish__ n.痛苦，苦恼 v.使感到极度苦恼
 
 Tropical adj.热带的
 
+
+9_28
+
+Reluctant adj.不情愿的
+
+Envelope n.信封
+
+Pressure n.压力
+
+__Transaction__ n.交易，学报
+
+Pitch v,投掷，扎营 n.投掷，球场
+
+Patrol n.巡逻兵 v.巡逻，巡察
+
+Seashell n.贝壳
+
+Isotope n.同位素
+
+Cooperative adj.合作的 n.合作社
+
+Glide v.滑行，滑翔 n.滑音，延音
+
+Provincial adj.省的，地方性的 n.地方人民，乡下人
+
+Influential adj.有影响力的
+
+Tailor n.裁缝 v.修改，使合适 v.裁制
+
+__Skeleton__ n.骨骼，梗概
+
+__Liability__ n.责任
+
+Analog n.模拟，类似物 adj.模拟的
+
+Initiate v.开始，发动 n.新加入组织的人
+
+Hesitate v.犹豫，踌躇
+
+Wavelength n.波长
+
+Represent v.象征，代表，阐明
+
+Recipient n.接受者，容器 adj.接受力强的
+
+Donate v.捐赠
+
+Ally v.结盟 n.盟友
+
+Weird adj.古怪的
+
+Gas n.气体，煤油
+
+Route n.路线，途径
+
+Disregard v.不理会 n.忽视，漠视
+
+Partition n.隔开物，隔墙 v.隔开
+
+Tackle v.对付，处理 n.阻截
+
+__Chary__ adj.小心的，谨慎的 *
+
+Civilization n.文明，开化，教养
+
+__Tramp__ n.流浪汉 v.踏
+
+Liberty n.自由
+
+Behavior
+
+Model n.模特
+
+Hardy adj.吃苦耐劳的，勇敢的 n.强壮的人
+
+Stopwatch n.停表
+
+Meaning
+
+Pilot n.飞行员 adj.实验性质的
+
+Bulk n.大批，大块 adj.大量的 v.膨胀
+
+Worm n.蠕虫 v.蠕动
+
+Heir n.继承人
+
+Desert 
+
+Appeal v.呼吁，请求，申诉 n.呼吁，吸引力
+
+Settle v,安居，定居
+
+Zero 
+
+Sociable adj.好交际的
+
+Courteous  adj.有礼貌的
+
+Badge n.徽章，象征 v.授予...徽章
+
+Heartfelt adj.真心实意的
+
+Melon 
+
+Disturb v.打扰，妨碍
+
+Obey 
+
+Doze v.n.瞌睡 
+
+Shorten v.缩短，使变短
+
+Kind 
+
+Honorable adj.光荣的
+
+Deform v.使变形
+
+Vision n.视力。视野，视觉
+
+__Mercury__ n.水银
+
+Bit n,少量，小块
+
+Overweight adj.超重的 n.超重
+
+__Crude__ n.原油 adj.天然的，粗糙的，粗鲁的，简陋的
+
+Lyric n.歌词，抒情诗 adj.供吟唱的
+
+Daring adj.大胆的，勇敢的，冒险的 n.勇敢，冒险
+
+Hip n.臀部，髋部
+
+Distribution n.分布，分派
+
+Indication n.表明，暗示
+
+__suspicious__ adj.可疑的
+
+Cue n.球杆 v.给。。。提示
 
 
 
