@@ -1466,21 +1466,21 @@ Pickup n.捡起，拾起，皮卡
 
 Criterion n.标准，准则
 
-Make-up n.化妆品
+__Make-up__ n.化妆品
 
-Interfere v.介入。干涉，妨碍
+__Interfere__ v.介入。干涉，妨碍
 
-Inlet n.水湾，小湾
+__Inlet__ n.水湾，小湾
 
 Immortal adj.永生的
 
 Overcoat n.大衣
 
-Tortuous adj. 弯弯曲曲的
+__Tortuous__ adj. 弯弯曲曲的 *
 
-Slipper 拖鞋
+__Slipper__ 拖鞋
 
-__Detour__ n.弯路
+__Detour__ n.弯路 *
 
 Shade 
 
@@ -1488,11 +1488,11 @@ Official n.官员，行政人员
 
 Resdential adj. 居住的，住宅的
 
-Definitive adj. 可靠的，决定性的，权威的
+__Definitive____ adj. 可靠的，决定性的，权威的
 
-vicious adj.凶猛的
+__vicious__ adj.凶猛的
 
-Embark v.开始，着手，从事
+__Embark__ v.开始，着手，从事
 
 __Ritual__ n.宗教的仪式，例行仪式
 
@@ -1500,9 +1500,9 @@ Currency n.货币，流通，流行
 
 Leading adj.首位的，居前的
 
-Brute adj.残忍的 ，无理性的
+__Brute__ adj.残忍的 ，无理性的
 
-Groove n.凹槽
+__Groove__ n.凹槽
 
 __Prestige__ n.威望
 
@@ -1516,17 +1516,17 @@ Collision n.碰撞
 
 Storm n.风暴
 
-__Dispatch__ v.发送（信件，电报等） 
+__Dispatch__ v.发送（信件，电报等） *
 
 Assistant n.助手 adj.助理的
 
-Terrific adj.极好的
+Terrific adj.极好的 *
 
 Pound n.英镑
 
-Rectify v.纠正，修复
+Rectify v.纠正，修复 *
 
-Fable n.预言
+Fable n.寓言 *
 
 Prophet n.先知，预言者
 
@@ -1918,9 +1918,9 @@ Trunk n.象鼻，躯干
 
 Confront v.与...对抗，正视
 
-Observant adj.机警的
+__Observant__ adj.机警的
 
-Hiterto adv.迄今为止
+__Hiterto__ adv.迄今为止
 
 __Quench__ v.扑灭
 
@@ -2024,7 +2024,7 @@ Hare n.兔子 V.飞跑
 
 Moustache n.小胡子
 
-__Envisage__ v,想象
+__Envisage__ v,想象*
 
 Choke 
 
@@ -2068,7 +2068,7 @@ Annoyance n.烦恼
 
 Stream n.小溪
 
-Cimic adj.滑稽的，喜剧的 n.连环漫画杂志
+Comical adj.滑稽的，喜剧的 n.连环漫画杂志
 
 __Hysterical__ adj.歇斯底里的
 
@@ -2118,7 +2118,7 @@ Naked adj.裸体的
 
 Unite v.联合，团结
 
-__Suffice__ v.足够
+__Suffice__ v.足够*
 
 Mystery n.神秘的事物
 
@@ -2128,7 +2128,7 @@ Watertight adj.不透水的，无懈可击的
 
 Brace v.支柱，支撑 n.牙齿定位器
 
-__Barrel__ n.桶，枪管
+__Barrel__ n.桶，枪管*
 
 August 
 
@@ -2148,9 +2148,9 @@ __Strain__  n.负担 v.拉紧，劳累
 
 Transistor n.晶体管
 
-__Deception__ n.欺骗，诡计 *
+__Deception__ n.欺骗，诡计 **
 
-__Vulgar__ adj.粗俗的，下流的，通俗的 n.平民，方言 *
+__Vulgar__ adj.粗俗的，下流的，通俗的 n.平民，方言 **
 
 Recollection n.记忆力
 
@@ -2188,13 +2188,13 @@ Greedy
 
 Limitation
 
-__Chronicle__ n.编年史，年代记，记录 v.记录. *
+__Chronicle__ n.编年史，年代记，记录 v.记录. **
 
 Troublesome adj.讨厌的
 
-Caress v.抚摸，拥抱 n.爱抚. *
+Caress v.抚摸，拥抱 n.爱抚. ***
 
-Extraction n.抽出，取出
+Extraction n.抽出，取出 *
 
 Cattle n.牛，牲口
 
@@ -2222,17 +2222,17 @@ __Sonorous__ adj.响亮的，能发出响亮声音的 *
 
 __Futile__ adj.无用的 *
 
-Sly adj.狡猾的 *
+Sly adj.狡猾的 **
 
 Up-to-date adj.时新的，新式的，跟上时代的
 
 Rust v.生锈，氧化 n。锈
 
-Shrub n.灌木
+Shrub n.灌木*
 
 Sense n.感官 v.感觉到
 
-Subsequent adj。随后的
+__Subsequent__ adj。随后的*
 
 goat n.山羊
 
@@ -2262,7 +2262,7 @@ __Constitutional__ adj.宪法的，合乎宪法的 n.保健运动
 
 Chiefly adv.主要地
 
-Scissors n.剪刀
+Scissor n.剪刀
 
 Extinction n.灭绝，消失
 
@@ -2276,13 +2276,13 @@ Gratitude n.感激
 
 Abolish v,废除，废止
 
-Battalion n.部队，军队
+__Battalion__ n.部队，军队*
 
-indefinite adj.模糊的
+indefinite adj.模糊的 *
 
 __Diploma__ n.毕业证书
 
-__Crumble__ v.弄碎，崩溃，破灭 n.碎屑，面包屑 **
+__Crumble__ v.弄碎，崩溃，破灭 n.碎屑，面包屑 ***
 
 exposure n.暴露，受寒，揭露
 
@@ -2292,7 +2292,7 @@ Supplementary adj.补充的，附加的 n.补充者
 
 Lace n.花边 v.加以修饰
 
-Lease v.出租 n.租约
+Lease v.出租 n.租约*
 
 __Concave__ adj.凹面的 n.凹面
 
@@ -2308,11 +2308,11 @@ Supply
 
 Characteristic n.特点adj.典型的
 
-__Subsistence__ n.生存，存在
+__Subsistence__ n.生存，存在*
 
 Animal 
 
-__Spur__ v.策马 n.刺激，鞭策，鼓励
+__Spur__ v.策马 n.刺激，鞭策，鼓励*
 
 __Plight__ n.困境 v.宣誓，保证 *
 
@@ -2372,7 +2372,7 @@ Doctor n.医生 v.修复，修理，改写文稿
 
 regret
 
-__Aesthetic__ adj.美学的，审美的，悦耳的，雅致的 *
+__Aesthetic__ adj.美学的，审美的，悦耳的，雅致的 **
 
 Seek
 
@@ -2474,13 +2474,13 @@ Appreciative adj.赞赏的，感激的
 
 Asset n.财产，资产
 
-Coverage n.新闻报道，覆盖范围
+Coverage n.新闻报道，覆盖范围*
 
 Odour n.臭气，气味
 
 Historic adj.历史上著名的
 
-Snobbish adj.势利的，自命不凡的
+Snobbish adj.势利的，自命不凡的*
 
 __Curricula__ n.课程
 
@@ -2552,7 +2552,7 @@ Narrow
 
 Trick n.恶作剧，诡计，技法 v.捉弄
 
-__Condemn__ v。谴责，责备
+__Condemn__ v。谴责，责备 *
 
 Chunk n.大块，大量
 
@@ -2574,7 +2574,7 @@ Lid n.盖子
 
 __Infant__ n.幼儿，婴儿 adj.婴儿的
 
-__Mirage__ n.幻影，海市蜃楼
+__Mirage__ n.幻影，海市蜃楼*
 
 Bar n.酒吧,棒，门闩，障碍
 
@@ -2604,28 +2604,28 @@ Loose adj.宽松的，不严谨的 v.放松
 
 __Pierce__ v.穿孔
 
-__anguish__ n.痛苦，苦恼 v.使感到极度苦恼
+__anguish__ n.痛苦，苦恼 v.使感到极度苦恼 *
 
 Tropical adj.热带的
 
 
 9_28
 
-Reluctant adj.不情愿的
+__Reluctant__ adj.不情愿的
 
 Envelope n.信封
 
 Pressure n.压力
 
-__Transaction__ n.交易，学报
+__Transaction__ n.交易，学报 *
 
 Pitch v,投掷，扎营 n.投掷，球场
 
-Patrol n.巡逻兵 v.巡逻，巡察
+__Patrol__ n.巡逻兵 v.巡逻，巡察
 
 Seashell n.贝壳
 
-Isotope n.同位素
+__Isotope__ n.同位素
 
 Cooperative adj.合作的 n.合作社
 
@@ -2637,9 +2637,9 @@ Influential adj.有影响力的
 
 Tailor n.裁缝 v.修改，使合适 v.裁制
 
-__Skeleton__ n.骨骼，梗概
+__Skeleton__ n.骨骼，梗概 *
 
-__Liability__ n.责任
+__Liability__ n.责任 *
 
 Analog n.模拟，类似物 adj.模拟的
 
@@ -2651,7 +2651,7 @@ Wavelength n.波长
 
 Represent v.象征，代表，阐明
 
-Recipient n.接受者，容器 adj.接受力强的
+__Recipient__ n.接受者，容器 adj.接受力强的
 
 Donate v.捐赠
 
@@ -2663,11 +2663,11 @@ Gas n.气体，煤油
 
 Route n.路线，途径
 
-Disregard v.不理会 n.忽视，漠视
+__Disregard__ v.不理会 n.忽视，漠视
 
 Partition n.隔开物，隔墙 v.隔开
 
-Tackle v.对付，处理 n.阻截
+__Tackle__ v.对付，处理 n.阻截
 
 __Chary__ adj.小心的，谨慎的 *
 
@@ -2707,9 +2707,9 @@ Sociable adj.好交际的
 
 Courteous  adj.有礼貌的
 
-Badge n.徽章，象征 v.授予...徽章
+__Badge__ n.徽章，象征 v.授予...徽章
 
-Heartfelt adj.真心实意的
+__Heartfelt__ adj.真心实意的
 
 Melon 
 
@@ -2737,7 +2737,7 @@ Overweight adj.超重的 n.超重
 
 __Crude__ n.原油 adj.天然的，粗糙的，粗鲁的，简陋的
 
-Lyric n.歌词，抒情诗 adj.供吟唱的
+__Lyric__ n.歌词，抒情诗 adj.供吟唱的
 
 Daring adj.大胆的，勇敢的，冒险的 n.勇敢，冒险
 
@@ -2750,6 +2750,233 @@ Indication n.表明，暗示
 __suspicious__ adj.可疑的
 
 Cue n.球杆 v.给。。。提示
+
+Margin n.页边的空白，边缘
+
+Inspiration n.灵感，鼓舞人心的
+
+Narrate v.叙述，旁白，讲故事
+
+
+9_30
+
+Marine adj.海洋的，航海的，海军的 n.海军陆战队
+
+Critic n.评论家
+
+__Recession__ n.经济衰退，不景气
+
+Debt n.债
+
+Worthy 
+
+__Stairway__ n.楼梯
+
+Cheat
+
+Tar n. 焦油，柏油
+
+Presence n.出席，到场
+
+Sensible adj.理智的，明确的
+
+Obligation n,责任，义务
+
+Temple n.庙宇，圣殿，太阳穴
+
+Compliment n.问候，恭维 v.赞美
+
+_Plump__ adj.颇胖的，丰满的 v.拍打使鼓起，突然坐下
+
+__Exposition__ n.阐述，展览会
+
+Document n.文件，公文 v.记录，证明
+
+__Grocer__ n.食品店杂货店主/员
+
+Sideways adv.斜着地，侧着地 adj.旁边的
+
+Carrier n.搬运工，运送人
+
+Isolation n.孤独
+
+__Reclaim__ v.取回，开拓
+
+Resume n.简历 v.继续，重新开始，恢复，回到
+
+Assemble v.集合，装配（机器等）
+
+Dishonor n.不光彩 v.使丢脸
+
+__Sway__ v.摇摆，摇曳 n.摇摆
+
+Command n.v.命令，指挥
+
+Wholesale n.批发 adj.大规模的，批发的
+
+Roller n.滚筒，滚柱
+
+Dictionary 
+
+Type n.类型，种类 v.打字
+
+Velocity n.速度
+
+Wise adj.  聪明的，博学的 v.知道
+
+Graceful adj.优雅的，得体的
+
+Recede v.退去，逐渐远去，（头发发际线）后退
+
+Navel adj.海军的，军舰的
+
+Symbol n.象征
+
+__ascent__ n.登高，上坡路
+
+Structure n.建筑物
+
+__Presumption__ n.推测，放肆，傲慢
+
+Humane adj.人道的
+
+Night 
+
+__Drift__ v.漂流，使漂流 n.漂流物
+
+climax n.高潮
+
+__Collaboration__ n.合作，协作 *
+
+Belly n.肚子
+
+Capture v.捕获 n.战利品
+
+Passage n.通道，走廊，段落，推移，旅程
+
+Bat n.蝙蝠
+
+Dentist n.牙医
+
+Doorway n.门口
+
+__Deputy__ n.代表
+
+Elevator 
+
+wealth n.财富，财产
+
+Imperial n.帝王，皇家 adj.帝王的，壮丽的，至尊的
+
+Glimpse n.一瞥 v.瞥见
+
+Invalid adj.无效的 n.病人 ，残废
+
+Retire v.退休
+
+Pursue v.追赶，追捕，进行
+
+cavity n.龋齿
+
+Reap v.收割，获得
+
+Kit n.工具箱，装备 v.装备
+
+Impose v.强加，强迫接受*
+
+Fuss n.大惊小怪，小题大做 v.为小事烦恼*
+
+Accountant n.会计师
+
+__Vest__ n.汗衫，背心 *
+
+__Soak__  v.浸泡，渗透 n.浸泡
+
+Rotate v.以...为轴扭动，使旋转
+
+Root 
+
+Aloft adv.在空中 *
+
+Dwelling n.住所 *
+
+Flow v.n.流动
+
+Experienced adj.经验丰富的
+
+Detect v.侦查，发现
+
+Tick v.用勾作为记号，发出滴答声 n.勾号，一刹那
+
+Maid n.女仆，少女
+
+Reception n.前台，接待处 *
+
+Zeal n.热心
+
+Slack adj.松弛的，懈怠的，萧条的 v.变松弛
+
+Cord n.细绳，索
+
+Naturally adv.自然地
+
+10_1
+
+Defender n.防卫者，辩护者
+
+Ruthless adj.残忍的
+
+Shortcut n.捷径，快捷执法 adj.有简便方法的 *
+
+Carbohydrate n.碳水化合物 *
+
+Corp n.一群人，兵团，特别小组
+
+Airborne adj.在空中 *
+
+Deregulation n.撤销管理规定
+
+Variation n.变异，变化
+
+Distinguished adj.著名的，卓著的
+
+Drain v.排干，排水，流干，喝光 n.下水道
+
+Comfort v.安慰，使舒适 n.舒适
+
+Frightful adj.可怕的，惊人的，非常的
+
+Premature  adj.早产的，早熟的 n.早产儿
+
+Customary adj.合乎习俗的，惯常的*
+
+Limestone n.石灰岩
+
+Expenditure n.（时间，金钱）花费支出*
+
+Occur v.发生
+
+Ticket n.票
+
+Aggression n.攻击行为，侵略
+
+Workforce n.劳动力
+
+Human
+
+Overdue adj.逾期的
+
+Involve v.卷入，牵扯
+
+Transit n.运输，运送 v.运送，通过
+
+
+
+
+
+
+
+
 
 
 
