@@ -2973,6 +2973,233 @@ Transit n.运输，运送 v.运送，通过
 
 
 
+10_15
+
+10_15
+
+Prophet n先知，预言者
+
+Overcast adj.阴天的，阴暗的，愁闷的 v.使沮丧
+
+Clearing n.空旷地
+
+Brazen adj.厚颜无耻的
+
+Occupy
+
+Atmospheric adj.大气的，大气层的
+
+Fluctuate v.波动
+
+Lawn n.草地
+
+Prominent adj.突出的，显眼的
+
+Generosity n.慷慨，大方
+
+Aircraft
+
+__Trail__ n.小径，路径
+
+Height n.高度
+
+Thesis n.论文，论题
+
+Quote v.引用，报价
+
+Trolley n.手推车，电车
+
+Delicacy n.精致
+
+Widen v.拓宽
+
+Tax n.税款 v.对...征税
+
+Petition n.请愿书，祈求 v.请愿
+
+Dignity n.威严，威风，端庄
+
+Adjustable adj.可调整的
+
+Lavatory n.厕所，盥洗室
+
+Computation 
+
+Brutal adj.残忍的，粗鲁的，严酷的
+
+Durable adj.耐用的，长久的 n.耐用品
+
+Imitate v.模仿
+
+Peace
+
+Classic adj.古典的，经典的 n.经典著作
+
+Belt n.腰带，带
+
+Marvellous adj.非凡的，不可思议的，绝妙的
+
+Blink v.眨眼睛，闪亮 n.眨眼睛
+
+Preserve v.储鲜，保鲜
+
+Induce v.引导，劝诱
+
+Immune adj.免疫的，有免疫力的
+
+Pose n.姿势，伪装 v.摆造型，主张，提出，引起，导致
+
+Hind adj,后部的 n.雌鹿
+
+Resolution n.决心，决定
+
+Actual adj.实际的，真实的
+
+Suspect n.嫌疑犯，可疑份子 v.怀疑，猜测
+
+Housekeeper n.女管家
+
+Reluctance n.不情愿，勉强
+
+__Colloquial__ adj.口语的，通俗的
+
+Outrage n.暴行，愤怒，残暴 v.使震怒，使愤
+
+pant
+
+Accuse v.指责，控告
+
+Discipline n.纪律 v.训练
+
+__Pledge__ v.发誓，保证 n.保证，誓言
+
+Firm n.事务所 v.是牢固，使稳固 adj.稳固的 adv.稳固地
+
+Historian adj.历史学家
+
+Dependence n.依赖，上瘾
+
+Technician n.技术员
+
+Tedious adj.沉闷的
+
+Stationery n.文具
+
+Hardly 
+
+Comprise v.构成，包含
+ 
+Oversee v.监督，偷看
+
+Compatible adj.可和谐共存的
+
+Hostility n.敌对，不友善
+
+ Define v.下定义，
+
+__Negligible__ adj.微不足道的
+
+Gravity n.重力
+
+__Vengeance__ n.报复，报仇 *
+
+Yeast n.酵母
+
+Pastry n.糕点，点心
+
+Curriculum n.课程
+
+__amateur__ adj.业余爱好的，业余身份的 n.业余爱好者，外行
+
+Signify v.表示 
+
+__Sham__ n.假货，虚假
+
+__Periodical__ n.期刊，杂志
+
+Wild adj.野生的，野性的
+
+__Startling__ adj.令人吃惊的
+
+Geographical adj.地理学的，地理的
+
+Corrode v.受腐蚀
+
+__Satisfactory__  adj.令人满意的
+
+__Countenance__ n.面容，表情 v.支持
+
+Kettle n.茶壶
+
+Electronic n.电子学
+
+Frequent adj.时常的，频繁的
+
+Genius n.天才
+
+Inquire v.询问，打听
+
+Round adj.圆的，球形的
+
+Primarily adv.主要地，首先
+
+cling v.紧紧抓住，黏着，挨着，依恋，坚持
+
+Consist v.由...组成
+
+Generalize v.概括，归纳
+
+Commence v.开始 
+
+__Coward__ n.懦夫
+
+__Stroll__ n.漫步，散步
+
+Endure v.忍受
+
+Champagne n.香槟
+
+Molten adj.熔化的
+
+__Delegation__ n.代表团
+
+Actress n.
+
+__Downstream__ adv.下游地 adj.下游的
+
+__Pneumonia__ n.肺炎
+
+Equator n.赤道
+
+Roman adj.罗马的，罗马人的，罗马文字的
+
+Dietary adj.饮食的
+
+__Prescribe__ v.给...开药，命令，指示
+
+__Stretch__ v.伸展，延伸，张开 n.延伸
+
+Thought n.想法，思维
+
+Log n.日志。原木 v.记录
+
+__Contaminate__ v.弄脏，污染 *
+
+jug n.一壶，一罐
+
+Exhaustive adj.详尽的，彻底的
+
+__Devoid__ adj.全无的，缺乏的
+
+Voltage n.电压
+
+__Patriot__ n.爱国者
+
+Cereal n.谷类食物
+
+vigor n.生命力，活力
+
+Perform v.表演
 
 
 
