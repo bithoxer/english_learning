@@ -3201,6 +3201,506 @@ vigor n.生命力，活力
 
 Perform v.表演
 
+10_17
+
+Petition n.请愿书，请求
+
+Dignity n.威严，威风
+
+Lavatory n.厕所
+
+Durable adj.耐久的
+
+Imitate v.模仿
+
+Belt n.腰带
+
+Blink
+
+Induce v.引导
+
+Immune adj.免疫的
+
+Hind adj.后部的
+
+Resolution n.决心，决定
+
+Reluctance n.不愿意
+
+Colloquial adj.白话的，口语的*
+
+Outrage n.暴行*
+
+Pledge v.发誓*
+
+Historian 
+
+Tedious adj.无聊的
+
+Stationery n.文具*
+
+comprise v.包含
+
+Oversee v.监督，偷看
+
+Compatible adj.可和谐共存的 *
+
+Hostility n. 敌意
+
+Negligible adj.可忽视的*
+
+Vengeance * n.复仇 *
+
+Yeast *n.酵母*
+
+Pastry ** n.点心**
+
+Curriculum n.课程
+
+Amateur n.业余爱好者
+
+Signify v.表示
+
+Sham * n.假货，虚假，欺骗*
+
+Periodical ** n.期刊**
+
+Startling *adj.令人吃惊的*
+
+Corrode * v.受腐蚀*
+
+Satisfactory adj.令人满意的
+
+Countenance * n.面容，表情*
+
+Kettle * n.茶壶
+
+Inquire v.询问，打听
+
+Consist 
+
+Molten adj.熔化的
+
+Delegation n.代表团*
+
+Downstream n.下游
+
+Pneumonia* n.肺炎 *
+
+Equator n.赤道
+
+Dietary *adj,饮食的*
+
+Prescribe v.给...开药，指示，命令**
+
+Stretch *v.伸展，延伸
+
+Contaminate ** v.弄脏，污染***
+
+Jug *n.一壶，一罐的量*
+
+Exhaustive adj.详尽的，彻底的
+
+Devoid adj.全无的
+
+Patriot * n.爱国者**
+
+Cereal* ** n.谷类食品***
+
+Vigor *n.生命力，活力*
+
+Forbidding* adj.令人生畏的***
+
+Personnel n.人事部门*
+
+Traverse v.横越，穿过
+
+Distill ** v.蒸馏**
+
+Console * v.安慰 n.控制台*
+
+Racket n.网球拍
+
+Obese * adj.肥胖的
+
+Siren * n.汽笛，警报声**
+
+Temporary adj.临时的
+
+Signature n.签名，署名
+
+Compassion n.同情，怜悯*
+
+Synchronise v.使同时发生*
+
+Temptation *n.引诱诱惑**
+
+Abbreviation *n.缩写词，缩短
+
+Cardinal * adj.主要的。基本的**
+
+Racecourse * n.赛马场*
+
+Exclaim * v.呼叫，惊叫**
+
+Emit v.发出*
+
+Credible adj.可信任的，可靠的*
+
+Bronze n.青铜
+
+Inquiry n.询问，调查，打听
+
+Emphatic * adj.加强语气的**
+
+Pale adj.苍白的*
+
+Legendary * adj.传说的
+
+Cashier n.收银员
+
+Diverse adj.多样的，不同的*
+
+Adore v.仰慕，很喜欢
+
+Accent n.口音，腔调
+
+Emigrant n.移民
+
+Deterioration ** n.变坏，恶化 ***
+
+Rooster n.
+
+Burdensome **adj.沉重的，难以负担的**
+
+slap *v.捆*
+
+Cloak * n.斗篷v.给...披斗篷*
+
+Homely adj.丑陋的*
+
+Publicity n.公众人物
+
+Gloomy * adj.愁容满面的*
+
+Expire *v.期满**
+
+Glorify ** v.赞美，称赞**
+
+Undo v.解开
+
+
+Riddle n.谜 v.解谜，出谜题*
+
+Continuity n.连续性
+
+Valve n.阀门*
+
+Channel n.频道 v.引导
+
+Appointment 
+
+Reassure * v.使放心，使消除疑虑*
+
+Raw adj.生的,未加工的
+
+Exception n.例外，除外
+
+Tube n.管子
+
+Expend v.消费，用尽
+
+Fume v.发怒 n.愤怒
+
+Subscribe v.订阅*,申请
+
+Clay n.黏土 v.用黏土处理*
+
+Pretend v.假装
+
+Nonsense * n.胡说，胡话*
+
+Favorable adj.称赞的*
+
+Subjective adj.主观上的
+
+Apprehension n.忧虑，担心，逮捕
+
+Electric adj.电的
+
+Potential n.潜力 adj.潜在的
+
+Clap v.鼓掌 n.轻拍
+
+Risk v.冒...的风险 n.风险
+
+Rent n.租金 v.出租
+
+Mass n.众多，群众 v.聚集
+
+Magnitude n.震级，巨大，重要性
+
+Real adj adv n
+
+Heroine n.女英雄
+
+Likelihood n.可能性*
+
+Identity n。身份
+
+Resolve n.决心 v.决定，解决
+
+Unnecessary 
+
+insist v.坚持
+
+Squeeze v.压榨 n.压榨
+
+Stir v.搅拌
+
+Clearance n.清理，清除
+
+Nest 
+
+Standard
+
+Tend v.照料，倾向
+
+Harassment n.骚扰，扰乱**
+
+Provide 
+
+Skip v.跳过，略过，遗漏 n.跳跃，省略
+
+Skillful adj.灵巧的，娴熟的
+
+Buck n.雄鹿，年轻男士，美元 v.反对
+
+Soil
+
+Photographic adj.摄像的
+
+Grand adj.壮丽的，重大的，宏伟的
+
+wreath n.花圈*
+
+Offence n.犯罪，攻击，过错
+
+Best-seller n.畅销书
+
+Utter v.说出 adj.无条件的
+
+Disrupt v.干扰
+
+Simultaneous *adj.同时发生的*
+
+Hierarchy** n.阶级，等级秩序**
+
+Array n.一系列，陈列，编队 v.排列，部署
+
+Premier n.首相
+
+Heap * n.一堆，大量 v.堆积*
+
+Excuse n.借口，辩解v.原谅
+
+Restrict v.限制
+
+Demoralize * v.使低落，使道德败坏*
+
+Astronaut
+
+Sneak v.鬼鬼祟祟地走，打小报告 v.潜行 adj.偷偷的 n.行为鬼祟的人
+
+Realization 
+
+Triumph  n.凯旋，胜利 v.成功，获胜**
+
+Lax  adj.松懈的 n.松元音**
+
+Spot * n.斑点，污点 v.发现，认出
+
+Proclaim v.宣告 ，声明，声称* 
+
+Harvest v.收获 n.收割
+
+Activate v.激活
+
+Occasion n.场合，时候，活动，机会
+
+Respectively adv.各自地 *
+
+Pharmacy * n.药房，药剂学，制药业*
+
+Distinction n.优秀，杰出*
+
+Stitch v.缝，绣
+
+Fellowship n.友谊,团体，奖学金
+
+publication n.出版,印刷，公布
+
+Typical adj.典型的
+
+Creature
+
+Against
+
+Configuration n.配置，布局
+
+Post v.邮寄 n.邮政。邮件
+
+Monument n.纪念碑,遗迹。遗址
+
+Aeronautics n.航空学*
+
+Bent 弯的，决心的，不诚实的 v.弯腰，弯曲
+
+Worthless
+
+Foam * n.泡沫
+
+Growth 
+
+Creation n.创造物，创作
+
+Create
+
+Peculiarity* n.怪癖，独特性*
+
+Appreciation n.欣赏，感激，评价，增值
+
+Extinguish v.熄灭，扑灭，根除，消灭
+
+Geometry n.几何学
+
+Polite adj.有礼貌的
+
+Pebble n.小圆石**
+
+Peculiarity n.怪癖，独特性
+
+Battery n.电池
+
+Trifle* n.蛋糕 v.嘲笑，轻视***
+
+Howl* v.嚎叫 n.嚎叫
+
+Basis n.基础
+
+Textbook n.教科书
+
+Peep v.n.窥视，偷看
+
+bloc n.集团
+
+Psychological adj.心理的
+
+Sovereign *adj.至高无上的 n.最高统治者，君主，元首*
+
+Rating n.评价，评分
+
+Imaginable 
+
+Disciplined adj.遵纪守法的
+
+Confuse v.混淆，使混乱
+
+Respectful adj.有礼貌的
+
+Oppress v.压迫 v.使(心情)沉重
+
+camel n.骆驼，驼色
+
+Horizontal * adj.水平的，横向的 n.水平，水平面*
+
+Sin n.罪孽，错误 v.违反戒律
+
+Manarch n.皇帝，君王
+
+Seminar n.研讨会，研究班 *
+
+Organic adj.有机的，器官的，组织的
+
+Collapse v.使...倒塌，使...崩溃
+
+Villa * n.别墅，公馆*
+
+Persevere v.坚持，不屈不挠
+
+Devotion n.热爱
+
+Turkey 
+
+Insane * adj.精神失常的**
+
+Dilemma n.进退两难的窘境*
+
+digest v.消化 n.摘要
+
+Eve  n.前夜，前夕
+
+Reviewer n.评论家
+
+Scold v.怒骂，责骂
+
+Priceless
+
+Discover
+
+Assure v.向...保证*
+
+spokesman n.发言人
+
+Fearful adj.害怕的
+
+Strengthen v.增强，变强大
+
+Evidently adv.显然地
+
+Utmost *adj.最大的，极限的 n.极限*
+
+Throne n.王座
+
+overflowing v.外溢，外流，泛滥 n.满得容不下的物或人
+
+Maintenance n.维修，保养
+
+Mainland n.大陆
+
+Reservation n.预定,保留地**
+
+Worship v.崇拜，爱戴，做礼拜 n.礼拜，礼拜仪式
+
+seal n.火漆印 v.缄口
+
+Tale n.故事，传说，叙述
+
+Carefree adj.无忧无虑的，轻松愉快的
+
+Prose** n。散文*
+
+Decimal n.小数 adj.小数的，十进制的
+
+Warfare n.战争 workfare n.工作福利制度
+
+Mix v.混合
+
+punch v.以拳猛击 n.潘趣酒
+
+Horizon n.地平线，眼界
+
+Preview v.预观 n.预告片
+
+Joint n。骨关节，结合处，廉价酒馆 adj.连接的。联合的
+
+Reshuffle v.再洗牌，改组，重新安排 n.重新洗牌
+
+Participant 
+
+Commander n.指挥官
+
+
 
 
 
