@@ -3703,6 +3703,451 @@ Commander n.指挥官
 
 
 
+10_21
+
+cape n.斗篷
+
+sustainable adj.可循环的
+
+Corporation n.企业
+
+Domination n.管理，支配
+
+Alien adj.同盟的
+
+Academician n.院士
+
+Arena n.竞技场，角斗场
+
+Humidity n。潮湿
+
+Owe 
+
+cookery n.厨艺
+
+dedication n.奉献
+
+Gum
+
+originate 
+
+overtake  n.超过
+
+shift v.换挡，替换
+
+Hypothesis n.假说*****
+
+Undue adj.过分的 *****
+
+heterogeneous adj.多相的，异种的****
+
+premise n.前提，假设
+
+Clutch v.紧握，抓住 n.抓住，离合器****
+
+handwriting n.字迹，笔迹
+
+Enlist v.得到...的帮助，应征入伍，招募
+
+Conspire v.密谋策划****
+
+contention n.争夺，争论，辩论****
+
+Proton n.质子****
+
+Reliant adj.依赖的****
+
+liberal n.自由主义者，开明的人 adj.自由主义的****
+
+harbor n.港湾
+
+Genre n.类型，流派 adj.风俗画的 ****
+
+Narrative n.描述，叙述 adj叙述的****
+
+Trim v.n.修剪****
+
+ornament n.v.装饰****
+
+flatten v.把 ...弄平
+
+Fore adj.在前部的，在船头的n.前头，船头****
+
+straw n.吸管，麦秆****
+
+distinguish v.区别，识别
+
+Penal adj.刑事的，刑罚的****
+
+Urgency n.紧急，紧迫的事
+
+Sector n.（经济的）组成部门****
+
+Dispose v/处理，处置****
+
+Tender adj.嫩的，柔软的，温柔的****
+
+lunatic adj.精神错乱的n.疯子
+
+Contemplate v.沉思，对 。..周密计划****
+
+Gathering n.聚集，集会****
+
+Dispense v.分配，分发，免除，执行****
+
+Jury n.陪审团****
+
+miraculous adj.不可思议的，奇迹的
+
+Hitherto adv.到目前为止
+
+quench v.扑灭
+
+Interior adj.内部的
+
+Original adj.有独创性的，原始的
+
+Discharge n.放电
+
+sculpture n.建筑
+
+Consume
+
+permeate v.渗透，普及
+
+irregularity 
+
+spare adj.备用的，多余的
+
+Petty adj.价值不大的，小的，琐碎的****
+
+Violent adj.猛烈的，暴力的
+
+Storey n.楼层****
+
+steer v.操纵,驾驶,掌舵，引导****
+
+Methodology n.方法论，方法学****
+
+instantaneous adj.瞬间的
+
+Stab v.刺，戳 n.刺痛，尝试****
+
+Meditation n.沉思****
+
+Commemorate v.纪念，庆祝
+
+assassin n.刺客
+
+convention n.会议，习俗，惯例 ****
+
+Multiplication n.乘法
+
+nut 
+
+Objective n.目标，目的 adj.客观的
+
+Tactical adj.策略的
+
+Taboo  n.禁忌，戒律 adj.忌讳的
+
+Vanilla n.香草籽，香草精
+
+
+
+Cricket n.蟋蟀
+
+Jelly n.果冻，肉冻 adj.有果冻的
+
+Bull n.公牛
+
+consent n.同意，许可 v.同意****
+
+Materialism n.唯物主义者
+
+Director
+
+Abide v.遵守，忍受****
+
+Dumb adj.哑的，愚笨的 v.使沉默****
+
+genetic adj.遗传的
+
+Plate n.盘子
+
+Steep adj.陡峭的 n.陡坡 v.沉浸于
+
+Keen adj.热心的，热衷的，敏锐的
+
+mute v.减弱 。..的声音 adj.缄默的****
+
+Gunpowder n.火药
+
+Minimize
+
+arc n.弧光,弧
+
+organ n.器官
+
+Sparrow n.麻雀
+
+Analytic adj.分析的
+
+Insurrection n.造反，叛乱****
+
+organism n.微生物
+
+debut  n.v.初次登台
+
+Living 
+
+Evolution n.进化
+
+Compulsory adj.强制的
+
+Valuable 
+
+Valid
+
+Mount v.骑上，爬上，增长
+
+Import
+
+Loyal
+
+Mug n.有柄的大杯子，嘴脸 v。对。..抢劫
+
+Tour
+
+Clarity n.清澈，清楚
+
+organization n.组织，体制
+
+Peck v.啄n.轻吻
+
+Hygiene n.卫生，卫生学****
+
+Microprocessor n.微处理器
+
+Avenge
+
+Hydrogen
+
+Situate v.使位于
+
+collar n.衣领，项圈
+
+Daylight n.日光
+
+attachment n.附件，依恋****
+
+refined adj.纯洁的
+
+wit n.才智
+
+Solemnity n.庄严，肃穆。庄严的仪式
+
+Pirate n.海盗
+
+Submissive adj.顺从的****
+
+Brown 
+
+Muscle
+
+Assist v.n.帮助
+
+Sweater n.毛衣
+
+wholesome adj.有益于健康的
+
+coexistence n.和谐共存
+
+celebrate adj.著名的 v.庆祝
+
+permanent adj.永久的
+
+Wallet n.钱包
+
+adverb n.副词
+
+flourish v.繁荣，茂盛
+
+Avocation n.业余爱好****
+
+auxiliary adj.备用的****
+
+dimension 
+
+hill
+
+Radio n.比率
+
+Hut n.小屋
+
+Layout n.布局
+
+Impropriety n.不正当的行为
+
+convey v.传送
+
+crowd n.人群，民众v.聚集
+
+Probe v.探测，探索 n.探针****
+
+Preference n.偏爱
+
+Triangle n.三角形
+
+emigrate v.移居别处
+
+Cumulative adj.渐增的，积累的
+
+Millimeter n.毫米
+
+illustrate v.阐明，举例说明
+
+Defiance n.蔑视，反抗,挑战
+
+halve v.平分
+
+rough 
+
+Precise 
+
+Dim adj.暗淡的 v.变暗淡****
+
+complicate v.(使)变复杂
+
+religious
+
+Host n.主持人，东道主
+
+Patent n.专利 adj.显然的，明显的
+
+Apart adv.分隔，分开地 adj.分隔的
+
+Stone n.石头
+
+saturate v.使充满，使饱和****
+
+courage n.勇气，胆量
+
+Contagious adj.有传染性的****
+
+philosophy n.哲学
+
+resourceful adj.足智多谋的
+
+portray v.描绘****
+
+villain n.坏人，恶棍
+
+whitewash v.用石灰水吧。..漂白
+
+pipeline n.管道
+
+Convoke v.召集会议****
+
+audit v.审查，旁听****
+
+operational adj.可正常操作的
+
+honeymoon n.蜜月
+
+Jaw n.下颚
+
+rack n.挂架，搁架 v.使痛苦
+
+Prompt v.提示，激起，推动 adj.迅速的 n.提示
+
+disarm v,放下武器
+
+impulse n.冲动
+
+Economical adj.节约的
+
+decent adj.体面的，端庄的****
+
+Commercial adj.商业性的，贸易的 n.商业广告
+
+External adj.外面的
+
+Encircle v,环绕，包围
+
+interconnect v.相互连接
+
+Visa n.签证
+
+tangle v.（使）缠绕，（使）乱作一团n.缠绕，纠结
+
+tow v.拖，牵引
+
+insurgent n.叛乱分子 adj.叛乱的
+
+attentive adj.留意的，注意的
+
+datum N.数据，资料
+
+composure n.沉着
+
+coarse adj.粗糙的，粗俗的，粗鲁的
+
+creep v.爬行 n.毛骨悚然的感觉
+
+turning n.拐弯处
+
+canal n.运河
+
+loan n.贷款 v.借贷
+
+Fertilizer n.肥料
+
+Coworker
+
+Brink n.(尤指崖边）边缘
+
+crown n.王冠 v.加冕
+
+Acre n.英亩
+
+distinctive adj.有特色的，与众不同的
+
+Await v.等候
+
+deceive v.欺骗，行骗
+
+capsule n.胶囊
+
+canoe n.独木舟v.乘独木舟
+
+distract v.使分心
+
+summit n.山顶，顶点
+
+acclaim n.欢呼，称赞 v.欢呼，喝彩
+
+kilowatt n.千瓦
+
+feather n.羽毛
+
+questionable adj.可疑的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
